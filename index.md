@@ -1,7 +1,7 @@
 ---
 ---
 
-# dr-yoon's Website
+# Laboratory for Precision Genome Medicine (PGM) Website
 
 An engaging 1-3 sentence description of your lab.
 
