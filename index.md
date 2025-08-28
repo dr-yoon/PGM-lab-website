@@ -3,7 +3,7 @@
 
 # Laboratory for Precision Genome Medicine (PGM) Website
 
-An engaging 1-3 sentence description of your lab.
+Where Genomic Discovery Meets Precision Medicine
 
 {% include section.html %}
 
