@@ -44,6 +44,6 @@ META-Center aims to uncover how cancer metastasis occurs. Our Group 3-3 team foc
   include figure.html
   image="images/META-Center.jpg"
   image2="images/META-Center_members.jpg"
-  caption="META-Center (MEtastasis Targeting and Analysis Center"
+  caption="META-Center (MEtastasis Targeting and Analysis Center)"
   width="800px"
 %}
