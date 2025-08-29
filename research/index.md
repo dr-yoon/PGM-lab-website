@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
+The research aea include broad range of translational research in the field of **human genetics** and **precision medicine**.
+
 The followings are selected publications contributing as main authors from the PGM Lab.
 
 {% include section.html %}
