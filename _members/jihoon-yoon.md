@@ -20,8 +20,7 @@ links:
 
 - **2017.03 – 2021.02**  
   *PhD*, Department of Pharmacology, Yonsei University College of Medicine, Seoul, Korea  
-  *Physician-scientist program (Substitution of mandatory military service)*  
-  *Advisor*: Min Goo Lee, MD, PhD
+  *Physician-scientist program (Advisor: Min Goo Lee, MD, PhD)*
 
 
 ## PROFESSIONAL EXPERIENCE
