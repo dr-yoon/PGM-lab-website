@@ -3,6 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # Laboratory for Precision Genome Medicine (PGM) Website
+# Laboratory for Precision Genome Medicine (PGM)
 
-  Visit **[dr-yoon.github.io/PGM-lab-website](https://dr-yoon.github.io/PGM-lab-website)** 🚀
+This is the GitHub page for the website.
+Please visit our website here >> **[dr-yoon.github.io/PGM-lab-website](https://dr-yoon.github.io/PGM-lab-website)** 🚀
