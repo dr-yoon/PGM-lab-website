@@ -29,7 +29,7 @@
   orcid: 0000-0002-4401-7803
   plugin: sources.py
   file: sources.yaml
-  image: https://insight.jci.org/assets/common/insight-white-on-transparent.20160208-0ce7c11085a7b0f6aa8029aca307bb56c445f25824aee58a72026601bab3efca.png
+  image: https://df6sxcketz7bb.cloudfront.net/volumes/10/4/10-4-cover.jpg
 - id: doi:10.14802/JMD.24054
   title: 'Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay Masquerading as
     Charcot-Marie-Tooth Disease: A Case Study and Literature Review of Korean Patients'
@@ -84,7 +84,7 @@
   orcid: 0000-0002-4401-7803
   plugin: sources.py
   file: sources.yaml
-  image: https://genomemedicine.biomedcentral.com/static/images/bmc/logos/genome-medicine-logo-24b9193f4f.svg
+  image: https://media.springernature.com/lw725/springer-cms/rest/v1/content/27457978/data/v3
 - id: doi:10.1186/s12920-024-02058-4
   title: Identification of a novel non-coding deletion in Allan-Herndon-Dudley syndrome
     by long-read HiFi genome sequencing
