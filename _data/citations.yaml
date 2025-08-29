@@ -85,6 +85,7 @@
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/lw725/springer-cms/rest/v1/content/27457978/data/v3
+  tags: "\uD55C\uBE5B\uC0AC"
 - id: doi:10.1186/s12920-024-02058-4
   title: Identification of a novel non-coding deletion in Allan-Herndon-Dudley syndrome
     by long-read HiFi genome sequencing
@@ -582,6 +583,10 @@
   plugin: sources.py
   file: sources.yaml
   image: https://images.journals.lww.com/hep/LargeRollover.01515467-202110000-00000.CV.jpeg
+  tags: "\uD55C\uBE5B\uC0AC"
+  buttons:
+  - type: source
+    link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=69394&authorId=34183&pager.offset=0&pagerLimit=10&srAuthorId=34183&beforemode=author-treatise-list#!/list
 - id: doi:10.1097/TP.0000000000003660
   title: Unraveling the Genomic Architecture of the CYP3A Locus and ADME Genes for
     Personalized Tacrolimus Dosing
@@ -2493,6 +2498,10 @@
   date: '2024-03-01'
   link: https://doi.org/g9zr3x
   image: https://media.springernature.com/full/nature-cms/uploads/product/emm/header-d8217f38d70a68088a50cb0998a1912d.svg
+  tags: "\uD55C\uBE5B\uC0AC"
+  buttons:
+  - type: source
+    link: https://www.ibric.org/bric/hanbitsa/han-interview.do?mode=view&id=92659&authorId=34183#!/list
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41431-024-01542-w
