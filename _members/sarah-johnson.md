@@ -1,11 +1,9 @@
 ---
-name: Sarah Johnson
+name: Borahm Choi
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Lab Technician
+role: Researcher
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: CBR9010@yuhs.ac
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
