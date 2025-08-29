@@ -1,9 +1,9 @@
 ---
 ---
 
-# Laboratory for Precision Genome Medicine (PGM) Website
+# Welcome to the homepage of Laboratory for Precision Genome Medicine (PGM) 
 
-Where Genomic Discovery Meets Precision Medicine
+Genomic Discovery to Precision Medicine
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ Where Genomic Discovery Meets Precision Medicine
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Publication lists in our lab.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Main topics of our research
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab members
 
 {%
   include button.html
