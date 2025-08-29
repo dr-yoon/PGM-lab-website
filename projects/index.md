@@ -7,15 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Our research focuses on uncovering disease mechanisms to advance healthcare and treatment, leveraging genetic and genomic tools and approaches.
+Our research focuses on uncovering disease mechanisms to advance healthcare and treatment, leveraging genetic and genomic tools and approaches for precision medicine.
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Ongoing projects
+## Ongoing project 1
 
-  **Project Title:** *Development of Nanopore Sequencing-Based Genomic Analysis and Diagnostic Technologies for Clinical Application*  
+  **Title:** *Development of Nanopore Sequencing-Based Genomic Analysis and Diagnostic Technologies for Clinical Application*  
   **Grant No.:** RS-2025-02214700  
   **Funding Period:** April 1, 2025 – December 31, 2027  
   **Total Expenses:** 550,000,000 KRW
@@ -27,5 +27,23 @@ We aim to establish a robust diagnostic infrastructure by building a Korean refe
   include figure.html
   image="images/project-RS-2025-02214700.jpg"
   caption="Development of Nanopore Sequencing-Based Genomic Analysis and Diagnostic Technologies for Clinical Application"
+  width="800px"
+%}
+
+## Ongoing project 2
+
+  **Title:** *Elucidating the Mechanisms of Cancer Metastasis through Time-Series Multi-Analysis and Developing Control Technologies*  
+  **Grant No.:** RS-2025-25459146  
+  **Funding Period:** September 1, 2025 – December 31, 2029  
+  **Total Expenses:** 547,727,272.73 KRW
+
+META-Center aims to uncover how cancer metastasis occurs. Our Group 3-3 team focuses on analyzing epigenomic changes in cancer tissues with long-read sequencing technologies.
+  
+  **Funding Source:**  Global Collaborative Research Support for Physician-Scientists, Korea Health Industry Development Institute (KHIDI)  
+{%
+  include figure.html
+  image="images/META-Center.jpg"
+  image="images/META-Center_members.jpg"
+  caption="META-Center (MEtastasis Targeting and Analysis Center"
   width="800px"
 %}
