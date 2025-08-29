@@ -581,7 +581,7 @@
   orcid: 0000-0002-4401-7803
   plugin: sources.py
   file: sources.yaml
-  image: https://www.aasld.org/themes/custom/aasld_theme/logo.svg
+  image: https://images.journals.lww.com/hep/LargeRollover.01515467-202110000-00000.CV.jpeg
 - id: doi:10.1097/TP.0000000000003660
   title: Unraveling the Genomic Architecture of the CYP3A Locus and ADME Genes for
     Personalized Tacrolimus Dosing
