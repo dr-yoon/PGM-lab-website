@@ -8,7 +8,6 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 주소: 서울 강남구 도곡로 235 비자검진센터 6층
-
 Address: 6F Visa Examination Center, Dogok-ro 235, Gangnam-gu, Seoul, Republic of Korea
 
 If you have any question, please send an e-mail
