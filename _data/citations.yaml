@@ -1,191 +1,2460 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.5734/JGM.2025.22.1.7
+  title: Investigating the utility of large language models for image-based rare disease
+    phenotyping
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Jihoon G. Yoon
+  publisher: Journal of Genetic Medicine
+  date: '2025-06-30'
+  link: https://doi.org/g9zr3b
+  orcid: 0000-0002-4401-7803
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1172/jci.insight.176985
+  title: Digenic impairments of haploinsufficient genes in patients with craniosynostosis
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Jung Woo Yu
+  - Jihoon G. Yoon
+  - Chaerim Han
+  - Shin Hye Noh
+  - Dong Min Shin
+  - Yu-Mi Yang
+  - Yong Oock Kim
+  - Kyu-Won Shim
+  - Min Goo Lee
+  publisher: JCI Insight
+  date: '2025-02-24'
+  link: https://doi.org/g9zr3c
+  orcid: 0000-0002-4401-7803
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.14802/JMD.24054
+  title: 'Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay Masquerading as
+    Charcot-Marie-Tooth Disease: A Case Study and Literature Review of Korean Patients'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Yongmoo Kim
+  - Seungbok Lee
+  - Jae So Cho
+  - Jihoon G Yoon
+  - Sheehyun Kim
+  - Man Jin Kim
+  - Jong Hee Chae
+  - Manho Kim
+  - Jangsup Moon
+  publisher: Journal of Movement Disorders
+  date: '2025-01-31'
+  link: https://doi.org/g9zr3d
+  orcid: 0000-0002-4401-7803
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1186/s13073-025-01513-w
+  title: Contribution of rare coding variants to microcephaly in individuals with
+    neurodevelopmental disorders
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Jihoon G. Yoon
+  - Hyunsoo Jang
+  - Seungbok Lee
+  - Se Song Jang
+  - Soojin Park
+  - Jaeso Cho
+  - Minji Kim
+  - Jiye Han
+  - Hyounji Yun
+  - Man Jin Kim
+  - Soo Yeon Kim
+  - Woo Joong Kim
+  - Anna Cho
+  - Jin Sook Lee
+  - Murim Choi
+  - Alberto Fernandez-Jaen
+  - Sebastian Silva
+  - "Reinaldo Uribe-San-Mart\xEDn"
+  - Christian Cantillano
+  - Noriko Miyake
+  - Byung Chan Lim
+  - Jung Min Ko
+  - Ki Joong Kim
+  - Ki-Jun Yoon
+  - Jong-Hee Chae
+  publisher: Genome Medicine
+  date: '2025-08-06'
+  link: https://doi.org/g9zr3f
+  orcid: 0000-0002-4401-7803
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1186/s12920-024-02058-4
+  title: Identification of a novel non-coding deletion in Allan-Herndon-Dudley syndrome
+    by long-read HiFi genome sequencing
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Jihoon G. Yoon
+  - Seungbok Lee
+  - Soojin Park
+  - Se Song Jang
+  - Jaeso Cho
+  - Man Jin Kim
+  - Soo Yeon Kim
+  - Woo Joong Kim
+  - Jin Sook Lee
+  - Jong-Hee Chae
+  publisher: BMC Medical Genomics
+  date: '2025-03-03'
+  link: https://doi.org/g9zr3g
+  orcid: 0000-0002-4401-7803
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1038/s41525-024-00449-1
+  title: Implementing genomic medicine in clinical practice for adults with undiagnosed
+    rare diseases
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Jong Hyeon Ahn
+  - Jihoon G. Yoon
+  - Jaeso Cho
+  - Seungbok Lee
+  - Sheehyun Kim
+  - Man Jin Kim
+  - Soo Yeon Kim
+  - Soon-Tae Lee
+  - Kon Chu
+  - Sang Kun Lee
+  - Han-Joon Kim
+  - Jinyoung Youn
+  - Ja-Hyun Jang
+  - Jong-Hee Chae
+  - Jangsup Moon
+  - Jin Whan Cho
+  publisher: npj Genomic Medicine
+  date: '2024-11-28'
+  link: https://doi.org/g9zr3h
+  orcid: 0000-0002-4401-7803
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1002/epi4.12993
+  title: Broadening the scope of multigene panel analysis for adult epilepsy patients
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Seungbok Lee
+  - "Mi\u2010Kyoung Kang"
+  - Ki Hurn So
+  - Riyul Jang
+  - Yong Woo Shin
+  - Se Song Jang
+  - Jihoon G. Yoon
+  - Sheehyun Kim
+  - Manjin Kim
+  - Kon Chu
+  - Sang Kun Lee
+  - Ki Joong Kim
+  - Seung Tae Baek
+  - Byung Chan Lim
+  - Jangsup Moon
+  publisher: Epilepsia Open
+  date: '2024-07-01'
+  link: https://doi.org/g9zr3j
+  orcid: 0000-0002-4401-7803
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.ajhg.2024.06.015
+  title: De novo missense variants in HDAC3 leading to epigenetic machinery dysfunction
+    are associated with a variable neurodevelopmental disorder
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Jihoon G. Yoon
+  - Seong-Kyun Lim
+  - Hoseok Seo
+  - Seungbok Lee
+  - Jaeso Cho
+  - Soo Yeon Kim
+  - Hyun Yong Koh
+  - Annapurna H. Poduri
+  - Vijayalakshmi Ramakumaran
+  - Pradeep Vasudevan
+  - Martijn J. de Groot
+  - Jung Min Ko
+  - Dohyun Han
+  - Jong-Hee Chae
+  - Chul-Hwan Lee
+  publisher: The American Journal of Human Genetics
+  date: '2024-08-01'
+  link: https://doi.org/g9zr3k
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1212/NXG.0000000000200141
+  title: Late-Onset Ataxia-Telangiectasia Presenting With Dystonia and Tremor
+  authors:
+  - Bora Jin
+  - Jihoon G. Yoon
+  - Aryun Kim
+  - Jangsup Moon
+  - Han-Joon Kim
+  publisher: Neurology Genetics
+  date: '2024-04-01'
+  link: https://doi.org/g9zr3m
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3345/cep.2023.01095
+  title: Expanding association between BICD2 variants and brain malformations and
+    associated lissencephaly
+  authors:
+  - Jaeso Cho
+  - Haeryung Kim
+  - Seoungbok Lee
+  - Jihoon G Yoon
+  - HyeJin Kim
+  - Minhye Kim
+  - Seoyun Jang
+  - Woojoong Kim
+  - Soo Yeon Kim
+  - Jong Hee Chae
+  publisher: Clinical and Experimental Pediatrics
+  date: '2024-01-15'
+  link: https://doi.org/g9zr3n
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26815/acn.2024.00472
+  title: 'Characterizing Families of Pediatric Patients with Rare Diseases and Their
+    Diagnostic Odysseys: A Comprehensive Survey Analysis from a Single Tertiary Center
+    in Korea'
+  authors:
+  - Jaeso Cho
+  - Young Shin Joo
+  - Jihoon G. Yoon
+  - Seung Bok Lee
+  - Soo Yeon Kim
+  - Jong Hee Chae
+  - Yong Jin Kwon
+  publisher: Annals of Child Neurology
+  date: '2024-07-01'
+  link: https://doi.org/g9zr3p
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41431-024-01542-W
+  title: Diagnostic uplift through the implementation of short tandem repeat analysis
+    using exome sequencing
+  authors:
+  - Jihoon G. Yoon
+  - Seungbok Lee
+  - Jaeso Cho
+  - Narae Kim
+  - Sheehyun Kim
+  - Man Jin Kim
+  - Soo Yeon Kim
+  - Jangsup Moon
+  - Jong-Hee Chae
+  publisher: European Journal of Human Genetics
+  date: '2024-02-02'
+  link: https://doi.org/g9zr3q
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2139/ssrn.4813696
+  title: 'Genomic Medicine in Clinical Practice for Adults: A Comprehensive Analysis
+    of a Prospective Cohort with Undiagnosed Rare Diseases'
+  authors:
+  - Jong Hyeon Ahn
+  - Jihoon  G. Yoon
+  - Jaeso Cho
+  - Seungbok Lee
+  - Sheehyun Kim
+  - Man Jin Kim
+  - Soo Yeon Kim
+  - Soon-Tae Lee
+  - Kon Chu
+  - Sang Kun Lee
+  - Han-Joon Kim
+  - Jinyoung Youn
+  - Ja-Hyun Jang
+  - Jong-Hee Chae
+  - Jangsup Moon
+  - Jin Whan Cho
+  publisher: Elsevier BV
+  date: '2024-01-01'
+  link: https://doi.org/g9zr3r
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-4168168/v1
+  title: Identification of a novel non-coding deletion in Allan-Herndon-Dudley syndrome
+    by long-read HiFi genome sequencing
+  authors:
+  - Jihoon G. Yoon
+  - Seungbok Lee
+  - Soojin Park
+  - Se Song Jang
+  - Jaeso Cho
+  - Man Jin Kim
+  - Soo Yeon Kim
+  - Woo Joong Kim
+  - Jin Sook Lee
+  - Jong-Hee Chae
+  publisher: Springer Science and Business Media LLC
+  date: '2024-04-01'
+  link: https://doi.org/g9zr3s
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/AJMG.A.63521
+  title: "Multi\u2010locus pathogenic variation identified in a patient with craniosynostosis"
+  authors:
+  - Jihoon G. Yoon
+  - Jung Woo Yu
+  - Kyu Won Shim
+  - Yong Oock Kim
+  - Min Goo Lee
+  publisher: American Journal of Medical Genetics Part A
+  date: '2023-12-21'
+  link: https://doi.org/g9zr3t
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1212/NXG.0000000000200147
+  title: "Prevalence and Characterization of\n            <i>NOTCH2NLC</i>\n     \
+    \       GGC Repeat Expansions in Koreans"
+  authors:
+  - Seungbok Lee
+  - Jihoon G. Yoon
+  - Juhyeon Hong
+  - Taekeun Kim
+  - Narae Kim
+  - Jana Vandrovcova
+  - Wai Yan Yau
+  - Jaeso Cho
+  - Sheehyun Kim
+  - Man Jin Kim
+  - Soo Yeon Kim
+  - Soon-Tae Lee
+  - Kon Chu
+  - Sang Kun Lee
+  - Han-Joon Kim
+  - Jungmin Choi
+  - Jangsup Moon
+  - Jong-Hee Chae
+  publisher: Neurology Genetics
+  date: '2024-06-01'
+  link: https://doi.org/g9zr3v
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/CGE.14539
+  title: "Syndromic craniosynostosis caused by a novel missense variant in <i>MAP4K4</i>:\
+    \ Expanding the genotype\u2013phenotype relationship in <scp>RASopathies</scp>"
+  authors:
+  - Jihoon G. Yoon
+  - Jung Woo Yu
+  - Kyu Won Shim
+  - Yong Oock Kim
+  - Min Goo Lee
+  publisher: Clinical Genetics
+  date: '2024-04-28'
+  link: https://doi.org/g9zr3w
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S12276-024-01172-8
+  title: Synergistic toxicity with copper contributes to NAT2-associated isoniazid
+    toxicity
+  authors:
+  - Jihoon G. Yoon
+  - Dong Geon Jang
+  - Sung-Gyu Cho
+  - Chaeyoung Lee
+  - Shin Hye Noh
+  - Soo Kyung Seo
+  - Jung Woo Yu
+  - Hyeon Woo Chung
+  - KyeoRe Han
+  - Soon Sung Kwon
+  - Dai Hoon Han
+  - Jaeseong Oh
+  - In-Jin Jang
+  - Sang-Hoon Kim
+  - Young-Koo Jee
+  - Hyun Lee
+  - Dong Won Park
+  - Jang Won Sohn
+  - Ho Joo Yoon
+  - Chul Hoon Kim
+  - Jae Myun Lee
+  - Sang-Heon Kim
+  - Min Goo Lee
+  publisher: Experimental &amp; Molecular Medicine
+  date: '2024-03-01'
+  link: https://doi.org/g9zr3x
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fneur.2023.1218706
+  title: Epilepsy phenotype and gene ontology analysis of the 129 genes in a large
+    neurodevelopmental disorders cohort
+  authors:
+  - Young Jun Ko
+  - Soo Yeon Kim
+  - Seungbok Lee
+  - Jihoon G. Yoon
+  - Man Jin Kim
+  - Hyeji Jun
+  - Hunmin Kim
+  - Jong-Hee Chae
+  - Ki Joong Kim
+  - Kwangsoo Kim
+  - Byung Chan Lim
+  publisher: Frontiers in Neurology
+  date: '2023-08-14'
+  link: https://doi.org/g9zr3z
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s10038-023-01122-8
+  title: "Prevalence and founder effect of DRC1 exon 1\u20134 deletion in Korean patients\
+    \ with primary ciliary dyskinesia"
+  authors:
+  - Man Jin Kim
+  - Sheehyun Kim
+  - Seung Won Chae
+  - Seungbok Lee
+  - Jihoon G. Yoon
+  - Boram Kim
+  - Jee-Soo Lee
+  - Jong Hee Chae
+  - Moon-Woo Seong
+  - Jangsup Moon
+  publisher: Journal of Human Genetics
+  date: '2023-02-07'
+  link: https://doi.org/g9zr32
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5124/JKMA.2023.66.10.613
+  title: 'Clinical applications of next-generation sequencing in the diagnosis of
+    genetic disorders in Korea: a narrative review'
+  authors:
+  - Jihoon G. Yoon
+  - Man Jin Kim
+  - Yong Jin Kwon
+  - Jong-Hee Chae
+  publisher: Journal of the Korean Medical Association
+  date: '2023-10-10'
+  link: https://doi.org/g9zr33
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/MDS.29275
+  title: De Novo <scp><i>SPTAN1</i></scp> Lys2083del Variant in a Korean Patient with
+    Pure Cerebellar Ataxia
+  authors:
+  - Jae Young Joo
+  - Jihoon G. Yoon
+  - Seoungbok Lee
+  - Jangsup Moon
+  - "Han\u2010Joon Kim"
+  publisher: Movement Disorders
+  date: '2022-11-21'
+  link: https://doi.org/g9zr34
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/BRAINCOMMS/FCAD233
+  title: 'Expansion of clinico-genetic spectrum of <i>PRDX3</i> disease: a literature
+    review with two additional cases'
+  authors:
+  - Jaeso Cho
+  - Jihoon G Yoon
+  - Seungbok Lee
+  - Sheehyun Kim
+  - Soo Yeon Kim
+  - Man Jin Kim
+  - Jangsup Moon
+  - Jong-Hee Chae
+  publisher: Brain Communications
+  date: '2023-01-01'
+  link: https://doi.org/g9zr35
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.14802/JMD.22150
+  title: First Cases of Spinocerebellar Ataxia 42 in Two Korean Families
+  authors:
+  - Hyoshin Son
+  - Jihoon G. Yoon
+  - Man Jin Kim
+  - Jangsup Moon
+  - Han-Joon Kim
+  publisher: Journal of Movement Disorders
+  date: '2023-01-31'
+  link: https://doi.org/g9zr36
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3343/ALM.2023.43.2.217
+  title: The First Korean Case of VEXAS Syndrome Caused by a <i>UBA1</i> Somatic Variant
+  authors:
+  - Jihoon G. Yoon
+  - Seungbok Lee
+  - Sheehyun Kim
+  - Man Jin Kim
+  - Yoon Hwan Chang
+  - Jin Kyun Park
+  - Dong-Yeop Shin
+  - Jangsup Moon
+  publisher: Annals of Laboratory Medicine
+  date: '2022-10-25'
+  link: https://doi.org/g9zr37
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fgene.2022.990015
+  title: Systematic analysis of inheritance pattern determination in genes that cause
+    rare neurodevelopmental diseases
+  authors:
+  - Soojin Park
+  - Se Song Jang
+  - Seungbok Lee
+  - Minsoo Kim
+  - Hyungtai Sim
+  - Hyeongseok Jeon
+  - Sung Eun Hong
+  - Jean Lee
+  - Jeongeun Lee
+  - Eun Young Jeon
+  - Jeongha Lee
+  - Cho-Rong Lee
+  - Soo Yeon Kim
+  - Man Jin Kim
+  - Jihoon G. Yoon
+  - Byung Chan Lim
+  - Woo Joong Kim
+  - Ki Joong Kim
+  - Jung Min Ko
+  - Anna Cho
+  - Jin Sook Lee
+  - Murim Choi
+  - Jong-Hee Chae
+  publisher: Frontiers in Genetics
+  date: '2022-09-12'
+  link: https://doi.org/g9zr38
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fped.2022.960450
+  title: The extended clinical and genetic spectrum of CTNNB1-related neurodevelopmental
+    disorder
+  authors:
+  - Seungbok Lee
+  - Se Song Jang
+  - Soojin Park
+  - Jihoon G. Yoon
+  - Soo Yeon Kim
+  - Byung Chan Lim
+  - Jong Hee Chae
+  publisher: Frontiers in Pediatrics
+  date: '2022-07-22'
+  link: https://doi.org/g9zr39
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hep.31862
+  title: "Molecular Characterization of Biliary Tract Cancer Predicts Chemotherapy\
+    \ and Programmed Death 1/Programmed Death\u2010Ligand 1 Blockade Responses"
+  authors:
+  - Jihoon G. Yoon
+  - Min Hwan Kim
+  - Mi Jang
+  - Hoguen Kim
+  - Ho Kyoung Hwang
+  - Chang Moo Kang
+  - Woo Jung Lee
+  - Beodeul Kang
+  - "Choong\u2010kun Lee"
+  - Min Goo Lee
+  - Hyun Cheol Chung
+  - Hye Jin Choi
+  - Young Nyun Park
+  publisher: Hepatology
+  date: '2021-07-29'
+  link: https://doi.org/gmmnmj
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/TP.0000000000003660
+  title: Unraveling the Genomic Architecture of the CYP3A Locus and ADME Genes for
+    Personalized Tacrolimus Dosing
+  authors:
+  - Jihoon G. Yoon
+  - Seung Hwan Song
+  - Sungkyoung Choi
+  - Jaeseong Oh
+  - In-Jin Jang
+  - Young Jin Kim
+  - Sanghoon Moon
+  - Bong-Jo Kim
+  - Yuri Cho
+  - Hyo Kee Kim
+  - Sangil Min
+  - Jongwon Ha
+  - Ho Sik Shin
+  - Chul Woo Yang
+  - Hye Eun Yoon
+  - Jaeseok Yang
+  - Min Goo Lee
+  - Jae Berm Park
+  - Myoung Soo Kim
+  publisher: Transplantation
+  date: '2021-10-01'
+  link: https://doi.org/g669cs
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/fpc.0000000000000423
+  title: A pilot study to investigate the utility of NAT2 genotype-guided isoniazid
+    monotherapy regimens in NAT2 slow acetylators
+  authors:
+  - Hyounggyoon Yoo
+  - Sang Chun Ji
+  - Joo-Youn Cho
+  - Sang-Heon Kim
+  - Jihoon G. Yoon
+  - Min Goo Lee
+  - Kyung-Sang Yu
+  - In-Jin Jang
+  - Jaeseong Oh
+  publisher: Pharmacogenetics and Genomics
+  date: '2020-11-06'
+  link: https://doi.org/g9zr4b
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000707188000230
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000707188000230
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/neuros/nyz470
+  title: Molecular Diagnosis of Craniosynostosis Using Targeted Next-Generation Sequencing
+  authors:
+  - Jihoon G Yoon
+  - Hyung Min Hahn
+  - Sungkyoung Choi
+  - Soo Jung Kim
+  - Sowon Aum
+  - Jung Woo Yu
+  - Eun Kyung Park
+  - Kyu Won Shim
+  - Min Goo Lee
+  - Yong Oock Kim
+  publisher: Neurosurgery
+  date: '2019-11-22'
+  link: https://doi.org/g3729m
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jcmgh.2019.09.003
+  title: 'Regulation of CFTR Bicarbonate Channel Activity by WNK1: Implications for
+    Pancreatitis and CFTR-Related Disorders'
+  authors:
+  - Yonjung Kim
+  - Ikhyun Jun
+  - Dong Hoon Shin
+  - Jihoon G. Yoon
+  - He Piao
+  - Jinsei Jung
+  - Hyun Woo Park
+  - Mary Hongying Cheng
+  - Ivet Bahar
+  - David C. Whitcomb
+  - Min Goo Lee
+  publisher: Cellular and Molecular Gastroenterology and Hepatology
+  date: '2020-01-01'
+  link: https://doi.org/g9zr4c
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BPJ.2019.11.2348
+  title: Dynamic Regulation of Bicarbonate Permeability through CFTR Channel by WNK1
+  authors:
+  - Yonjung Kim
+  - Ikhyun Jun
+  - Dong Hoon Shin
+  - Jihoon G. Yoon
+  - Jinsei Jung
+  - Hyun Woo Park
+  - Mary H. Cheng
+  - Ivet Bahar
+  - David C. Whitcomb
+  - Min Goo Lee
+  publisher: Biophysical Journal
+  date: '2020-02-01'
+  link: https://doi.org/g9zr4d
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4062/biomolther.2019.112
+  title: Functional Characterization of Pharmcogenetic Variants of Human Cytochrome
+    P450 2C9 in Korean Populations
+  authors:
+  - Myung-A Cho
+  - Jihoon G. Yoon
+  - Vitchan Kim
+  - Harim Kim
+  - Rowoon Lee
+  - Min Goo Lee
+  - Donghak Kim
+  publisher: Biomolecules &amp; Therapeutics
+  date: '2019-11-01'
+  link: https://doi.org/g9zr4f
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/DATABASE/BAZ085
+  title: Large expert-curated database for benchmarking document similarity detection
+    in biomedical literature search
+  authors:
+  - Peter Brown
+  - Aik-Choon Tan
+  - Mohamed A El-Esawi
+  - Thomas Liehr
+  - Oliver Blanck
+  - Douglas P Gladue
+  - Gabriel M F Almeida
+  - Tomislav Cernava
+  - Carlos O Sorzano
+  - Andy W K Yeung
+  - Michael S Engel
+  - Arun Richard Chandrasekaran
+  - Thilo Muth
+  - Martin S Staege
+  - Swapna V Daulatabad
+  - Darius Widera
+  - Junpeng Zhang
+  - Adrian Meule
+  - Ken Honjo
+  - Olivier Pourret
+  - Cong-Cong Yin
+  - Zhongheng Zhang
+  - Marco Cascella
+  - Willy A Flegel
+  - Carl S Goodyear
+  - Mark J van Raaij
+  - Zuzanna Bukowy-Bieryllo
+  - Luca G Campana
+  - Nicholas A Kurniawan
+  - David Lalaouna
+  - "Felix J H\xFCttner"
+  - Brooke A Ammerman
+  - Felix Ehret
+  - Paul A Cobine
+  - Ene-Choo Tan
+  - Hyemin Han
+  - Wenfeng Xia
+  - Christopher McCrum
+  - Ruud P M Dings
+  - Francesco Marinello
+  - Henrik Nilsson
+  - Brett Nixon
+  - Konstantinos Voskarides
+  - Long Yang
+  - Vincent D Costa
+  - Johan Bengtsson-Palme
+  - William Bradshaw
+  - Dominik G Grimm
+  - Nitin Kumar
+  - Elvis Martis
+  - Daniel Prieto
+  - Sandeep C Sabnis
+  - Said E D R Amer
+  - Alan W C Liew
+  - Paul Perco
+  - Farid Rahimi
+  - Giuseppe Riva
+  - Chongxing Zhang
+  - Hari P Devkota
+  - Koichi Ogami
+  - Zarrin Basharat
+  - Walter Fierz
+  - Robert Siebers
+  - Kok-Hian Tan
+  - Karen A Boehme
+  - Peter Brenneisen
+  - James A L Brown
+  - Brian P Dalrymple
+  - David J Harvey
+  - Grace Ng
+  - Sebastiaan Werten
+  - Mark Bleackley
+  - Zhanwu Dai
+  - Raman Dhariwal
+  - Yael Gelfer
+  - Marcus D Hartmann
+  - Pawel Miotla
+  - Radu Tamaian
+  - Pragashnie Govender
+  - Oliver J Gurney-Champion
+  - Joonas H Kauppila
+  - Xiaolei Zhang
+  - "Natalia Echeverr\xEDa"
+  - Santhilal Subhash
+  - Hannes Sallmon
+  - Marco Tofani
+  - Taeok Bae
+  - Oliver Bosch
+  - "P\xE1raic O Cu\xEDv"
+  - Antoine Danchin
+  - Barthelemy Diouf
+  - Tuomas Eerola
+  - Evangelos Evangelou
+  - Fabian V Filipp
+  - Hannes Klump
+  - Lukasz Kurgan
+  - Simon S Smith
+  - Olivier Terrier
+  - Neil Tuttle
+  - David B Ascher
+  - Sarath C Janga
+  - Leon N Schulte
+  - Daniel Becker
+  - Christopher Browngardt
+  - Stephen J Bush
+  - Guillaume Gaullier
+  - Kazuki Ide
+  - Clement Meseko
+  - Gijsbert D A Werner
+  - Jan Zaucha
+  - Abd A Al-Farha
+  - Noah F Greenwald
+  - Segun I Popoola
+  - Md Shaifur Rahman
+  - Jialin Xu
+  - Sunny Y Yang
+  - Noboru Hiroi
+  - Ozgul M Alper
+  - Chris I Baker
+  - Michael Bitzer
+  - George Chacko
+  - Birgit Debrabant
+  - Ray Dixon
+  - Evelyne Forano
+  - Matthew Gilliham
+  - Sarah Kelly
+  - Karl-Heinz Klempnauer
+  - Brett A Lidbury
+  - Michael Z Lin
+  - Iseult Lynch
+  - Wujun Ma
+  - Edward W Maibach
+  - Diane E Mather
+  - Kutty S Nandakumar
+  - Robert S Ohgami
+  - Piero Parchi
+  - Patrizio Tressoldi
+  - Yu Xue
+  - Charles Armitage
+  - Pierre Barraud
+  - Stella Chatzitheochari
+  - Luis P Coelho
+  - Jiajie Diao
+  - Andrew C Doxey
+  - "Ang\xE9lique Gobet"
+  - Pingzhao Hu
+  - Stefan Kaiser
+  - Kate M Mitchell
+  - Mohamed F Salama
+  - Ivan G Shabalin
+  - Haijun Song
+  - Dejan Stevanovic
+  - Ali Yadollahpour
+  - Erliang Zeng
+  - Katharina Zinke
+  - C G Alimba
+  - Tariku J Beyene
+  - Zehong Cao
+  - Sherwin S Chan
+  - Michael Gatchell
+  - Andreas Kleppe
+  - Marcin Piotrowski
+  - Gonzalo Torga
+  - Adugna A Woldesemayat
+  - Mehmet I Cosacak
+  - Scott Haston
+  - Stephanie A Ross
+  - Richard Williams
+  - Alvin Wong
+  - Matthew K Abramowitz
+  - Andem Effiong
+  - Senhong Lee
+  - Muhammad Bilal Abid
+  - Cyrus Agarabi
+  - Cedric Alaux
+  - Dirk R Albrecht
+  - Gerald J Atkins
+  - Charles R Beck
+  - A M J J Bonvin
+  - Emer Bourke
+  - Thomas Brand
+  - Ralf J Braun
+  - James A Bull
+  - Pedro Cardoso
+  - Dee Carter
+  - Robin M Delahay
+  - Bernard Ducommun
+  - Pascal H G Duijf
+  - Trevor Epp
+  - Eeva-Liisa Eskelinen
+  - Mazyar Fallah
+  - Debora B Farber
+  - Jose Fernandez-Triana
+  - Frank Feyerabend
+  - Tullio Florio
+  - Michael Friebe
+  - Saori Furuta
+  - Mads Gabrielsen
+  - Jens Gruber
+  - Malgorzata Grybos
+  - Qian Han
+  - Michael Heinrich
+  - "Heikki Helanter\xE4"
+  - Michael Huber
+  - Albert Jeltsch
+  - Fan Jiang
+  - Claire Josse
+  - Giuseppe Jurman
+  - Haruyuki Kamiya
+  - Kim de Keersmaecker
+  - Erik Kristiansson
+  - Frank-Erik de Leeuw
+  - Jiuyong Li
+  - Shide Liang
+  - Jose A Lopez-Escamez
+  - Francisco J Lopez-Ruiz
+  - Kevin J Marchbank
+  - Rolf Marschalek
+  - "Carmen S Mart\xEDn"
+  - Adriana E Miele
+  - Xavier Montagutelli
+  - Esteban Morcillo
+  - Rosario Nicoletti
+  - Monika Niehof
+  - "Ronan O\u2019Toole"
+  - Toshihiko Ohtomo
+  - Henrik Oster
+  - Jose-Alberto Palma
+  - Russell Paterson
+  - Mark Peifer
+  - Maribel Portilla
+  - M C Portillo
+  - Antonia L Pritchard
+  - Stefan Pusch
+  - Gajendra P S Raghava
+  - Nicola J Roberts
+  - Kehinde Ross
+  - Birgitt Schuele
+  - Kjell Sergeant
+  - Jun Shen
+  - Alessandro Stella
+  - Olga Sukocheva
+  - Vladimir N Uversky
+  - Sven Vanneste
+  - Martin H Villet
+  - Miguel Viveiros
+  - Julia A Vorholt
+  - Christof Weinstock
+  - Masayuki Yamato
+  - Ioannis Zabetakis
+  - Xin Zhao
+  - Andreas Ziegler
+  - Wan M Aizat
+  - Lauren Atlas
+  - Kristina M Bridges
+  - Sayan Chakraborty
+  - Mieke Deschodt
+  - Helena S Domingues
+  - Shabnam S Esfahlani
+  - Sebastian Falk
+  - J L Guisado
+  - Nolan C Kane
+  - Gray Kueberuwa
+  - Colleen L Lau
+  - Dai Liang
+  - Enwu Liu
+  - Andreas M Luu
+  - Chuang Ma
+  - Lisong Ma
+  - Robert Moyer
+  - Adam D Norris
+  - Suresh Panthee
+  - Jerod R Parsons
+  - Yousong Peng
+  - "In\xEAs Mendes Pinto"
+  - Cristina R Reschke
+  - "Elina Sillanp\xE4\xE4"
+  - Christopher J Stewart
+  - Florian Uhle
+  - Hui Yang
+  - Kai Zhou
+  - Shu Zhu
+  - Mohamed Ashry
+  - Niels Bergsland
+  - Maximilian Berthold
+  - Chang-Er Chen
+  - Vito Colella
+  - Maarten Cuypers
+  - Evan A Eskew
+  - Xiao Fan
+  - Maksymilian Gajda
+  - "Rayner Gonz\xE1lezlez-Prendes"
+  - Amie Goodin
+  - Emily B Graham
+  - Ewout J N Groen
+  - "Alba Guti\xE9rrez-Sacrist\xE1n"
+  - Mohamad Habes
+  - Enrico Heffler
+  - Daniel B Higginbottom
+  - Thijs Janzen
+  - Jayakumar Jayaraman
+  - Lindsay A Jibb
+  - Stefan Jongen
+  - Timothy Kinyanjui
+  - Rositsa G Koleva-Kolarova
+  - Zhixiu Li
+  - Yu-Peng Liu
+  - Bjarte A Lund
+  - Alexandre A Lussier
+  - Liping Ma
+  - Pablo Mier
+  - Matthew D Moore
+  - Katja Nagler
+  - Mark W Orme
+  - James A Pearson
+  - Anilkumar S Prajapati
+  - Yu Saito
+  - "Simon E Tr\xF6der"
+  - Florence Uchendu
+  - Niklas Verloh
+  - Denitza D Voutchkova
+  - Ahmed Abu-Zaid
+  - Joaira Bakkach
+  - Philipp Baumert
+  - Marcos Dono
+  - Jack Hanson
+  - Sandrine Herbelet
+  - Emma Hobbs
+  - Ameya Kulkarni
+  - Narendra Kumar
+  - Siqi Liu
+  - Nikolai D Loft
+  - Tristan Reddan
+  - Thomas Senghore
+  - Howard Vindin
+  - Haotian Xu
+  - Ross Bannon
+  - Branson Chen
+  - Johnny T K Cheung
+  - Jeffrey Cooper
+  - Ashwini K Esnakula
+  - Karine A Feghali
+  - Emilia Ghelardi
+  - Agostino Gnasso
+  - Jeffrey Horbar
+  - Hei M Lai
+  - Jian Li
+  - Lan Ma
+  - Ruiyan Ma
+  - Zihang Pan
+  - Marco A Peres
+  - Raymond Pranata
+  - Esmond Seow
+  - Matthew Sydes
+  - Ines Testoni
+  - Anna L Westermair
+  - Yongliang Yang
+  - Masoud Afnan
+  - Joan Albiol
+  - Lucia G Albuquerque
+  - Eisuke Amiya
+  - Rogerio M Amorim
+  - Qianli An
+  - Stig U Andersen
+  - John D Aplin
+  - Christos Argyropoulos
+  - Yan W Asmann
+  - Abdulaziz M Assaeed
+  - Atanas G Atanasov
+  - David A Atchison
+  - Simon V Avery
+  - Paul Avillach
+  - Peter D Baade
+  - Lars Backman
+  - Christophe Badie
+  - Alfonso Baldi
+  - Elizabeth Ball
+  - Olivier Bardot
+  - Adrian G Barnett
+  - Mathias Basner
+  - Jyotsna Batra
+  - O M Bazanova
+  - Andrew Beale
+  - Travis Beddoe
+  - Melanie L Bell
+  - Eugene Berezikov
+  - Sue Berners-Price
+  - Peter Bernhardt
+  - Edward Berry
+  - Theolis B Bessa
+  - Craig Billington
+  - John Birch
+  - Randy D Blakely
+  - Mark A T Blaskovich
+  - Robert Blum
+  - Marleen Boelaert
+  - Dimitrios Bogdanos
+  - Carles Bosch
+  - Thierry Bourgoin
+  - Daniel Bouvard
+  - Laura M Boykin
+  - Graeme Bradley
+  - Daniel Braun
+  - Jeremy Brownlie
+  - "Albert Br\xFChl"
+  - Austin Burt
+  - Lisa M Butler
+  - Siddappa N Byrareddy
+  - Hugh J Byrne
+  - Stephanie Cabantous
+  - Sara Calatayud
+  - Eva Candal
+  - Kimberly Carlson
+  - "S\xF2nia Casillas"
+  - Valter Castelvetro
+  - Patrick T Caswell
+  - Giacomo Cavalli
+  - Vaclav Cerovsky
+  - Monica Chagoyen
+  - Chang-Shi Chen
+  - Dong F Chen
+  - Hao Chen
+  - Hui Chen
+  - Jui-Tung Chen
+  - Yinglong Chen
+  - Changxiu Cheng
+  - Jianlin Cheng
+  - Mai Chinapaw
+  - Christos Chinopoulos
+  - William C S Cho
+  - Lillian Chong
+  - Debashish Chowdhury
+  - Andre Chwalibog
+  - A Ciresi
+  - Shamshad Cockcroft
+  - Ana Conesa
+  - Penny A Cook
+  - David N Cooper
+  - Olivier Coqueret
+  - Enoka M Corea
+  - Elisio Costa
+  - Carol Coupland
+  - Stephanie Y Crawford
+  - Aparecido D Cruz
+  - Huijuan Cui
+  - Qiang Cui
+  - David C Culver
+  - "Amedeo D\u2019Angiulli"
+  - Tanya E S Dahms
+  - France Daigle
+  - Raymond Dalgleish
+  - "H\xE5vard E Danielsen"
+  - "S\xE9bastien Darras"
+  - Sean M Davidson
+  - David A Day
+  - Volkan Degirmenci
+  - Luc Demaison
+  - Koenraad Devriendt
+  - Jiandong Ding
+  - Yunus Dogan
+  - X C Dong
+  - Claudio F Donner
+  - Walter Dressick
+  - Christian A Drevon
+  - Huiling Duan
+  - Christian Ducho
+  - Nicolas Dumaz
+  - Bilikere S Dwarakanath
+  - Mark H Ebell
+  - Steffen Eisenhardt
+  - Naser Elkum
+  - Nadja Engel
+  - Timothy B Erickson
+  - Michael Fairhead
+  - Marty J Faville
+  - Marlena S Fejzo
+  - Fernanda Festa
+  - Antonio Feteira
+  - Patrick Flood-Page
+  - John Forsayeth
+  - Simon A Fox
+  - Steven J Franks
+  - Francesca D Frentiu
+  - Mikko J Frilander
+  - Xinmiao Fu
+  - Satoshi Fujita
+  - Ian Galea
+  - Luca Galluzzi
+  - Federica Gani
+  - Arvind P Ganpule
+  - "Antonio Garc\xEDa-Alix"
+  - Kristene Gedye
+  - Maurizio Giordano
+  - Cecilia Giunta
+  - Paul A Gleeson
+  - Cyrille Goarant
+  - Haipeng Gong
+  - Diop Gora
+  - Michael J Gough
+  - Ravinder Goyal
+  - Kathryn E Graham
+  - "Ana Grande-P\xE9rez"
+  - Patricia M Graves
+  - Harm Greidanus
+  - Darren Grice
+  - Christoph Grunau
+  - Yosephine Gumulya
+  - Yabin Guo
+  - Vsevolod V Gurevich
+  - Oleg Gusev
+  - Elke Hacker
+  - Steffen R Hage
+  - Guy Hagen
+  - Steven Hahn
+  - Dagmar M Haller
+  - Sven Hammerschmidt
+  - Jianwei Han
+  - Renzhi Han
+  - Martin Handfield
+  - Hapuarachchige C Hapuarachchi
+  - Timm Harder
+  - Jennifer E Hardingham
+  - Michelle Heck
+  - Marcel Heers
+  - Khe F Hew
+  - Yohei Higuchi
+  - Cynthia St Hilaire
+  - Rachel Hilton
+  - Enisa Hodzic
+  - Andrew Hone
+  - Yuichi Hongoh
+  - Guoku Hu
+  - Heinz P Huber
+  - Luis E Hueso
+  - Judith Huirne
+  - Lisa Hurt
+  - Helena Idborg
+  - Kazuho Ikeo
+  - Evan Ingley
+  - Philip M Jakeman
+  - Arne Jensen
+  - Hong Jia
+  - Husen Jia
+  - Shuqin Jia
+  - Jianping Jiang
+  - Xingyu Jiang
+  - Yi Jin
+  - Daehyun Jo
+  - Andrew M Johnson
+  - Marie Johnston
+  - Karen R Jonscher
+  - Philippe G Jorens
+  - Jens O L Jorgensen
+  - Johan W Joubert
+  - Sin-Ho Jung
+  - Antonio M Junior
+  - Thomas Kahan
+  - Sunjeev K Kamboj
+  - Yong-Kook Kang
+  - Yannis Karamanos
+  - Natasha A Karp
+  - Ryan Kelly
+  - Ralph Kenna
+  - Jonathan Kennedy
+  - Birgit Kersten
+  - Roy A Khalaf
+  - Javaria M Khalid
+  - T Khatlani
+  - Tarig Khider
+  - Gregor S Kijanka
+  - Sarah R B King
+  - Tomasz Kluz
+  - Paul Knox
+  - Tatsuya Kobayashi
+  - Karl-Wilhelm Koch
+  - Maija R J Kohonen-Corish
+  - Xiangpeng Kong
+  - Deborah Konkle-Parker
+  - Kalevi M Korpela
+  - Leondios G Kostrikis
+  - Peter Kraiczy
+  - Harald Kratz
+  - "G\xFCnter Krause"
+  - Paul H Krebsbach
+  - "S\xF8ren R Kristensen"
+  - Prerna Kumari
+  - Akira Kunimatsu
+  - Hatice Kurdak
+  - Young D Kwon
+  - Carl Lachat
+  - Malgorzata Lagisz
+  - Brenda Laky
+  - Jan Lammerding
+  - Matthias Lange
+  - Mar Larrosa
+  - Andrew L Laslett
+  - Elizabeth E LeClair
+  - Kyung-Woo Lee
+  - Ming-Yih Lee
+  - Moon-Soo Lee
+  - Genyuan Li
+  - Jiansheng Li
+  - Klaus Lieb
+  - Yau Y Lim
+  - Merry L Lindsey
+  - Paul-Dag Line
+  - Dengcai Liu
+  - Fengbin Liu
+  - Haiyan Liu
+  - Hongde Liu
+  - Vett K Lloyd
+  - Te-Wen Lo
+  - Emanuela Locci
+  - Josef Loidl
+  - Johan Lorenzen
+  - Stefan Lorkowski
+  - Nigel H Lovell
+  - Hua Lu
+  - Wei Lu
+  - Zhiyong Lu
+  - Gustavo S Luengo
+  - Lars-Gunnar Lundh
+  - Philippe A Lysy
+  - Angela Mabb
+  - Heather G Mack
+  - David A Mackey
+  - S R Mahdavi
+  - Pamela Maher
+  - Toby Maher
+  - Sankar N Maity
+  - Brigitte Malgrange
+  - Charalampos Mamoulakis
+  - Arduino A Mangoni
+  - Thomas Manke
+  - Antony S R Manstead
+  - Athanasios Mantalaris
+  - Jan Marsal
+  - Hanns-Ulrich Marschall
+  - Francis L Martin
+  - Jose Martinez-Raga
+  - Encarnacion Martinez-Salas
+  - Daniel Mathieu
+  - Yoichi Matsui
+  - Elie Maza
+  - James E McCutcheon
+  - Gareth J McKay
+  - Brian McMillan
+  - Nigel McMillan
+  - Catherine Meads
+  - Loreta Medina
+  - B Alex Merrick
+  - Dennis W Metzger
+  - Frederic A Meunier
+  - Martin Michaelis
+  - Olivier Micheau
+  - Hisaaki Mihara
+  - Eric M Mintz
+  - Takuo Mizukami
+  - Yann Moalic
+  - D P Mohapatra
+  - Antonia Monteiro
+  - Matthieu Montes
+  - John V Moran
+  - Sergey Y Morozov
+  - Matthew Mort
+  - Noriyuki Murai
+  - Denis J Murphy
+  - Susan K Murphy
+  - Shauna A Murray
+  - Shinji Naganawa
+  - Srinivas Nammi
+  - Grigorios Nasios
+  - Roman M Natoli
+  - Frederique Nguyen
+  - Christine Nicol
+  - Filip van Nieuwerburgh
+  - Erlend B Nilsen
+  - Clarissa J Nobile
+  - "Margaret O\u2019Mahony"
+  - Sophie Ohlsson
+  - Oluremi Olatunbosun
+  - Per Olofsson
+  - Alberto Ortiz
+  - Kostya Ostrikov
+  - Siegmar Otto
+  - Tiago F Outeiro
+  - Songying Ouyang
+  - Sabrina Paganoni
+  - Andrew Page
+  - Christoph Palm
+  - Yin Paradies
+  - Michael H Parsons
+  - Nick Parsons
+  - Pigny Pascal
+  - Elisabeth Paul
+  - Michelle Peckham
+  - Nicoletta Pedemonte
+  - Michael A Pellizzon
+  - M Petrelli
+  - Alexander Pichugin
+  - Carlos J C Pinto
+  - John N Plevris
+  - Piero Pollesello
+  - Martin Polz
+  - Giovanna Ponti
+  - Piero Porcelli
+  - Martin Prince
+  - Gwendolyn P Quinn
+  - Terence J Quinn
+  - Satu Ramula
+  - Juri Rappsilber
+  - Florian Rehfeldt
+  - Jan H Reiling
+  - Claire Remacle
+  - Mohsen Rezaei
+  - Eric W Riddick
+  - Uwe Ritter
+  - Neil W Roach
+  - David D Roberts
+  - Guillermo Robles
+  - Tiago Rodrigues
+  - Cesar Rodriguez
+  - Jo Roislien
+  - Monique J Roobol
+  - J Alexandra Rowe
+  - Andreas Ruepp
+  - Jan van Ruitenbeek
+  - Petra Rust
+  - Sonia Saad
+  - George H Sack
+  - Manuela Santos
+  - Aurore Saudemont
+  - Gianni Sava
+  - Simone Schrading
+  - Alexander Schramm
+  - Martin Schreiber
+  - Sidney Schuler
+  - Joost Schymkowitz
+  - Alexander Sczyrba
+  - Kate L Seib
+  - Han-Ping Shi
+  - Tomohiro Shimada
+  - Jeon-Soo Shin
+  - Colette Shortt
+  - Patricia Silveyra
+  - Debra Skinner
+  - Ian Small
+  - Paul A M Smeets
+  - Po-Wah So
+  - Francisco Solano
+  - Daniel E Sonenshine
+  - Jiangning Song
+  - Tony Southall
+  - John R Speakman
+  - Mandyam V Srinivasan
+  - Laura P Stabile
+  - Andrzej Stasiak
+  - Kathryn J Steadman
+  - Nils Stein
+  - Andrew W Stephens
+  - Douglas I Stewart
+  - Keith Stine
+  - Curt Storlazzi
+  - Nataliya V Stoynova
+  - Wojciech Strzalka
+  - Oscar M Suarez
+  - Taranum Sultana
+  - Anirudha V Sumant
+  - Mathew J Summers
+  - Gang Sun
+  - Paul Tacon
+  - Kozo Tanaka
+  - Haixu Tang
+  - Yoshinori Tanino
+  - Paul Targett-Adams
+  - Mourad Tayebi
+  - Reema Tayyem
+  - Christoph C Tebbe
+  - Evelyn E Telfer
+  - Wolfram Tempel
+  - Julita A Teodorczyk-Injeyan
+  - Gert Thijs
+  - Sally Thorne
+  - Amanda G Thrift
+  - Celine Tiffon
+  - Philip Tinnefeld
+  - Daryono H Tjahjono
+  - Fabrice Tolle
+  - Ervin Toth
+  - Andria L del Tredici
+  - Apostolos Tsapas
+  - Konstantinos Tsirigotis
+  - Ayse Turak
+  - George Tzotzos
+  - Edet E Udo
+  - Toshiaki Utsumi
+  - Subramanian Vaidyanathan
+  - Michel Vaillant
+  - Armand Valsesia
+  - Roosmarijn E Vandenbroucke
+  - Feliciano H Veiga
+  - Marc Vendrell
+  - Peter A Vesk
+  - Paul Vickers
+  - Victor M Victor
+  - Richard Villemur
+  - Marie-Claude Vohl
+  - Christian R Voolstra
+  - Anne Vuillemin
+  - Steven Wakelin
+  - Levi Waldron
+  - Laurence J Walsh
+  - Amanda Y Wang
+  - Fuan Wang
+  - Yun Wang
+  - Yoichi Watanabe
+  - Andreas Weigert
+  - Jet-Chau Wen
+  - Carol Wham
+  - Ethan P White
+  - Jan Wiener
+  - Gottfried Wilharm
+  - Simon Wilkinson
+  - Raffaella Willmann
+  - Coralie Wilson
+  - Brunhilde Wirth
+  - Timothy R Wojan
+  - Mathieu Wolff
+  - Bryan M Wong
+  - Tzu-Wei Wu
+  - Hanno Wuerbel
+  - Xiangshu Xiao
+  - Dong Xu
+  - J W Xu
+  - Jianping Xu
+  - Bin Xue
+  - Suayib Yalcin
+  - Hong Yan
+  - En-Cheng Yang
+  - Shiqi Yang
+  - Wei Yang
+  - Yuzhen Ye
+  - Zhi-Qiang Ye
+  - Jari Yli-Kauhaluoma
+  - Hiroshi Yoneyama
+  - Ying Yu
+  - Guo-Cheng Yuan
+  - Chiou-Hwa Yuh
+  - Manuela Zaccolo
+  - Chen Zeng
+  - Branko Zevnik
+  - Chi Zhang
+  - Li Zhang
+  - Li Zhang
+  - Yingkai Zhang
+  - Yusen Zhang
+  - Zhiyong Zhang
+  - Zhong-Yin Zhang
+  - Yuan Zhao
+  - Min Zhou
+  - Torsten Zuberbier
+  - Carmen M Aanei
+  - Rafi Ahmad
+  - Manar Al-Lawama
+  - Alexandre Alanio
+  - Judith Allardyce
+  - David Alonso-Caneiro
+  - John M Atack
+  - Dirk Baier
+  - Abhisheka Bansal
+  - Yannick Benezeth
+  - Colette Berbesque
+  - Frederik Berrevoet
+  - Peter H W Biedermann
+  - Erik Bijleveld
+  - Florian Bittner
+  - Fabian Blombach
+  - Wouter van den Bos
+  - Shellie A Boudreau
+  - Adam D Bramoweth
+  - Oliver Braubach
+  - Yufeng Cai
+  - Matthew Campbell
+  - Zanxia Cao
+  - Thibault Catry
+  - Xin Chen
+  - Shuiqin Cheng
+  - Hee-Jung Chung
+  - "Miguel A Ch\xE1vez-Fumagalli"
+  - Aaron Conway
+  - Bruno M Costa
+  - Normand Cyr
+  - Lorraine T Dean
+  - Martin S Denzel
+  - S V Dlamini
+  - Kevin J Dudley
+  - Maeva Dufies
+  - Thorsten Ecke
+  - Denitsa Eckweiler
+  - Elisenda Eixarch
+  - Hosny El-Adawy
+  - Julius V Emmrich
+  - Alex J Eustace
+  - Christine M Falter-Wagner
+  - Johannes Fuss
+  - Jianzhao Gao
+  - Martin R Gill
+  - Liz Gloyn
+  - Robert Goggs
+  - Usha Govinden
+  - Garrett Greene
+  - Victor Greiff
+  - D S Grundle
+  - "Patrick Gr\xFCneberg"
+  - Nicksy Gumede
+  - Gbaguidi Haore
+  - Pille Harrison
+  - Xavier Hoenner
+  - Diego Hojsgaard
+  - Hikaru Hori
+  - Maria P Ikonomopoulou
+  - Patrick Jeurissen
+  - Daniel M Johnson
+  - Dhiraj Kabra
+  - Koji Kamagata
+  - Chandan Karmakar
+  - Olga Kasian
+  - Linda K Kaye
+  - Murad M Khan
+  - Yong-Min Kim
+  - J K Kish
+  - Sebastian Kobold
+  - Gary Kohanbash
+  - Gregor Kohls
+  - Jan-Michael Kugler
+  - Gyanendra Kumar
+  - Jon Lacy-Colson
+  - Asam Latif
+  - Volker M Lauschke
+  - Bingling Li
+  - Chinten J Lim
+  - Fang Liu
+  - Xiaodong Liu
+  - Jin-Jian Lu
+  - Qiang Lu
+  - Poornima Mahavadi
+  - Ugo Marzocchi
+  - Christine A McGarrigle
+  - Tom van Meerten
+  - Rogier Min
+  - Iain Moal
+  - Massimiliano Molari
+  - Lucas Molleman
+  - Saiful R Mondal
+  - Thea van de Mortel
+  - W N Moss
+  - Othonas A Moultos
+  - Maheswari Mukherjee
+  - Kazuhiko Nakayama
+  - Edward Narayan
+  - ' Navaratnarajah'
+  - Philipp-Alexander Neumann
+  - Jiyun Nie
+  - Yingjiu Nie
+  - Frank Niemeyer
+  - Fiona Nolan
+  - Ogueri Nwaiwu
+  - Wendy H Oldenmenger
+  - Emmanuel Olumayede
+  - Jianhong Ou
+  - Menuka Pallebage-Gamarallage
+  - Simon P Pearce
+  - Tuula Pelkonen
+  - Maria C Pelleri
+  - Joana L Pereira
+  - Mpho Pheko
+  - Karina A Pinto
+  - Allison Piovesan
+  - Michael Pluess
+  - Illya M Podolsky
+  - Julie Prescott
+  - Dongchen Qi
+  - Xingshun Qi
+  - Vaia D Raikou
+  - Andreas Ranft
+  - Johanna Rhodes
+  - Jean-Yves Rotge
+  - Anna D Rowe
+  - Manish Saggar
+  - Robert A Schuon
+  - Shaouli Shahid
+  - Vahid Shalchyan
+  - Prasad Shirvalkar
+  - Oleg Shiryayev
+  - Jugpreet Singh
+  - Michael J Smout
+  - "Ant\xF3nio Soares"
+  - Chunjiao Song
+  - Kshitij Srivastava
+  - Rupesh K Srivastava
+  - Jim Sun
+  - Attila Szabo
+  - Wiktor Szymanski
+  - Chan N P Tai
+  - Hisashi Takeuchi
+  - S Tanadini-Lang
+  - Fei Tang
+  - Wanyin Tao
+  - G Theron
+  - Chang F Tian
+  - Yu-Shi Tian
+  - Lisa M Tuttle
+  - Anna Valenti
+  - Pierre Verlot
+  - Mirella Walker
+  - Jun Wang
+  - Danielle Welter
+  - Matthew Winslade
+  - Dalei Wu
+  - Yi-Rui Wu
+  - Han Xiao
+  - Beisi Xu
+  - Juan Xu
+  - Ziyue Xu
+  - Dongdong Yang
+  - Mingjun Yang
+  - Patricio Yankilevich
+  - Yuyi You
+  - Chenglong Yu
+  - Jian Zhan
+  - Gong Zhang
+  - Kai Zhang
+  - Tuo Zhang
+  - Yi Zhang
+  - Guoyan Zhao
+  - Jing Zhao
+  - Xiaofan Zhou
+  - Zhenxing Zhu
+  - Penelope A Ajani
+  - Udunna C Anazodo
+  - Saeed A Bagloee
+  - Kasia Bail
+  - Ido Bar
+  - Joe Bathelt
+  - David Benkeser
+  - Meghan L Bernier
+  - Adam M Blanchard
+  - Dominic W Boakye
+  - Vasileios Bonatsos
+  - Michele H Boon
+  - George Bouboulis
+  - Elizabeth Bromfield
+  - Joshua Brown
+  - Kim C M Bul
+  - Kathryn J Burton
+  - Eugene G Butkowski
+  - Grace Carroll
+  - Fengqing Chao
+  - Elisabeth E Charrier
+  - Xiaoyin Chen
+  - Yu-Chih Chen
+  - ' Chenguang'
+  - Jane R Choi
+  - Tore Christoffersen
+  - "Jo\xE3o C Comel"
+  - Cyril Cosse
+  - Yanru Cui
+  - Pieter van Dessel
+  - ' Dhaval'
+  - Daria Diodato
+  - Maelle Duffey
+  - Avik Dutt
+  - Luis G Egea
+  - Mohammed El-Said
+  - Martin Faye
+  - Beatriz Fernandez-Fernandez
+  - Kieran G Foley
+  - Luria L Founou
+  - Fan Fu
+  - Rabea A Gadelkareem
+  - Evgeny Galimov
+  - Gulcan Garip
+  - Alison Gemmill
+  - Quentin Gouil
+  - James Grey
+  - Zoya Gridneva
+  - Michel J Grothe
+  - "Th\xE9ophile Gr\xE9bert"
+  - Fabricio Guerrero
+  - "L\xE9o Guignard"
+  - Marco J Haenssgen
+  - David Hasler
+  - Joan Y Holgate
+  - Ancheng Huang
+  - Amanda M Hulse-Kemp
+  - Claire Jean-Quartier
+  - Sang-Min Jeon
+  - Yangyang Jia
+  - Catherine Jutzeler
+  - Panagiotis Kalatzis
+  - Masud Karim
+  - Kathrin Karsay
+  - Anne Keitel
+  - Andreas Kempe
+  - Jeremy R Keown
+  - Chin M Khoo
+  - Nyil Khwaja
+  - Rogier A Kievit
+  - Aleksandra Kosanic
+  - Dimitrios A Koutoukidis
+  - Paul Kramer
+  - Dilip Kumar
+  - "N\xFCkhet K\u0131ra\u011F"
+  - Giuseppe Lanza
+  - Thuc D Le
+  - Jung W Leem
+  - Daniel Leightley
+  - Andreia Leite
+  - Lukas Lercher
+  - Ying Li
+  - Renly Lim
+  - Luiz R A Lima
+  - Li Lin
+  - Tong Ling
+  - Yuchen Liu
+  - Zhonghua Liu
+  - Yao Lu
+  - Fok M Lum
+  - Hang Luo
+  - Jatin Machhi
+  - Angus Macleod
+  - Isaac Macwan
+  - Hanumantha R Madala
+  - Nima Madani
+  - Nicola de Maio
+  - Kalina Makowiecki
+  - Daniel J Mallinson
+  - Ruta Margelyte
+  - Caracausi Maria
+  - Y Markonis
+  - Luca Marsili
+  - Suzanne Mavoa
+  - Lorna McWilliams
+  - Moa Megersa
+  - Caetano S M Mendes
+  - Julia Menichetti
+  - Rebecca Mercieca-Bebber
+  - Jack J Miller
+  - David-Paul M Minde
+  - Alexander Minges
+  - Eleanor Mishra
+  - Virendra R Mishra
+  - Carly Moores
+  - Nicola Morrice
+  - Alexander E Moskalensky
+  - "Nicol\xF2 Navarin"
+  - Edessa Negera
+  - Philippe Nolet
+  - Ana Nordberg
+  - "Rickard Nord\xE9n"
+  - Jessica P Nowicki
+  - Nelly Olova
+  - "Pawe\u0142 Olszewski"
+  - Robert Onzima
+  - Chih-Long Pan
+  - Charny Park
+  - Dong Ik Park
+  - Seyoung Park
+  - Chandrashekhar D Patil
+  - Sansoa A Pedro
+  - Samuel R Perry
+  - Jessica Peter
+  - Brent M Peterson
+  - Andrea Pezzuolo
+  - Ilya Pozdnyakov
+  - Siyu Qian
+  - Lei Qin
+  - Ali Rafe
+  - Ishier Raote
+  - Ali Raza
+  - Henrike Rebl
+  - Osama Refai
+  - Tim Regan
+  - Tambi Richa
+  - Mark F Richardson
+  - K R Robinson
+  - Luca Rossoni
+  - Romain Rouet
+  - Soroush Safaei
+  - Pierre H H Schneeberger
+  - Daniela Schwotzer
+  - Agata Sebastian
+  - Jennifer Selinski
+  - Stefanie Seltmann
+  - Feng Sha
+  - Nir Shalev
+  - Jin-Long Shang
+  - Josef Singer
+  - Mandeep Singh
+  - Taylor Smith
+  - Emma Solomon-Moore
+  - Lijuan Song
+  - Samuele Soraggi
+  - Ryan Stanley
+  - Nico Steckhan
+  - Frederic Strobl
+  - Lorenzo Subissi
+  - Irwan Supriyanto
+  - Chinmay R Surve
+  - Tomo Suzuki
+  - Caitlin Syme
+  - "Karl S\xF6relius"
+  - Young Tang
+  - Marwa Tantawy
+  - Sumudu Tennakoon
+  - Serafino Teseo
+  - Christine Toelzer
+  - Nikola Tomov
+  - Miguel Tovar
+  - Linh Tran
+  - Sushil Tripathi
+  - Anil M Tuladhar
+  - Azubuike C Ukubuiwe
+  - Carolina O L Ung
+  - Kaspar Valgepea
+  - Hamid Vatanparast
+  - Arnau Vidal
+  - Fang Wang
+  - Qing Wang
+  - Ricky Watari
+  - Rebecca Webster
+  - Ruth Webster
+  - Junnian Wei
+  - David Wibowo
+  - Tanja S H Wingenbach
+  - Rose M Xavier
+  - Shumin Xiao
+  - Peng Xiong
+  - Shicai Xu
+  - Shilin Xu
+  - Ruifeng Yao
+  - Wen Yao
+  - Qinan Yin
+  - Yongbo Yu
+  - Masayoshi Zaitsu
+  - Zian Zeineb
+  - Xiao-Yong Zhan
+  - Jilei Zhang
+  - Rongqiang Zhang
+  - Wei Zhang
+  - Xianglilan Zhang
+  - Shan Zheng
+  - Bailing Zhou
+  - Xiaoyan Zhou
+  - Haroon Ahmad
+  - Sayo A Akinwumi
+  - Gregory F Albery
+  - Ahmed Alhowimel
+  - Junaid Ali
+  - Mansour Alshehri
+  - Mohammed Alsuhaibani
+  - Andrey Anikin
+  - Samuel O Azubuike
+  - Anders Bach-Mortensen
+  - Lior Baltiansky
+  - Martin Bartas
+  - Kiflemariam Y Belachew
+  - Vivek Bhardwaj
+  - Karin Binder
+  - Nicholas S Bland
+  - Michael Boah
+  - Benjamin Bullen
+  - "Giovanna E Calabr\xF2"
+  - Tiffany J Callahan
+  - Bing Cao
+  - Kelsey Chalmers
+  - Wei Chang
+  - Zhengping Che
+  - Andrew T Y Chen
+  - Haimin Chen
+  - Huaming Chen
+  - Youning Chen
+  - Zhao Chen
+  - YoungRok Choi
+  - Mohiuddin A K Chowdhury
+  - Martin R Christensen
+  - Robert S C Cooke
+  - Marzia Cottini
+  - Natalie V Covington
+  - Catriona Cunningham
+  - Julien Delarocque
+  - Lucie Devos
+  - Aurup R Dhar
+  - Ke-Feng Ding
+  - Kexian Dong
+  - Zheng Dong
+  - Niklas Dreyer
+  - Chelsea Ekstrand
+  - Tanguy Fardet
+  - Berhanu E Feleke
+  - Thomas Feurer
+  - Angela Freitas
+  - Tian Gao
+  - N G Asefa
+  - Francesco Giganti
+  - Piotr Grabowski
+  - "Jos\xE9 R Guerra-Mora"
+  - Chengying Guo
+  - Xinyi Guo
+  - Himanshu Gupta
+  - Shuonan He
+  - Marloes Heijne
+  - Stephanie Heinemann
+  - Alexander Hogrebe
+  - Zhengping Huang
+  - Sophinese Iskander-Rizk
+  - Lavanya M Iyer
+  - Yasmin Jahan
+  - Ameh S James
+  - Emmanuel Joel
+  - Bastian Joffroy
+  - "Clara J\xE9gousse"
+  - George Kambondo
+  - Priyanka Karnati
+  - Cihan Kaya
+  - An Ke
+  - Daniel Kelly
+  - Rob Kickert
+  - Peter E Kidibule
+  - Jennifer P Kieselmann
+  - Hyeon J Kim
+  - Takeshi Kitazawa
+  - Aniek Lamberts
+  - You Li
+  - Huakang Liang
+  - Sabrina N Linn
+  - Thomas Litfin
+  - Wang Liusuo
+  - Vasiliki Lygirou
+  - Ajay K Mahato
+  - Zhi-Ming Mai
+  - Rupert W Major
+  - Samira Mali
+  - Panagiotis Mallis
+  - Wenzhi Mao
+  - Wenzhi Mao
+  - Katie Marvin-Dowle
+  - Leanda D Mason
+  - Ben Merideth
+  - Maria J Merino-Plaza
+  - Britt Merlaen
+  - Rossella Messina
+  - Anand K Mishra
+  - Junaid Muhammad
+  - Conrad Musinguzi
+  - Afroditi Nanou
+  - Amreen Naqash
+  - Joe T Nguyen
+  - Thi T H Nguyen
+  - Duan Ni
+  - ' Nida'
+  - Shirli Notcovich
+  - Barnabas Ohst
+  - Quinn R Ollivier
+  - "Dani\xEBl F Osses"
+  - Xiangda Peng
+  - Arnoud Plantinga
+  - Michael Pulia
+  - Muhammad Rafiq
+  - Ayush Raman
+  - "Delphine Raucher-Ch\xE9n\xE9"
+  - "Rafa\u0142 Rawski"
+  - Asit Ray
+  - Lubna A Razak
+  - Kevin Rudolf
+  - Peter Rusch
+  - Margaux L Sadoine
+  - Axel Schmidt
+  - Roey Schurr
+  - Stephen Searles
+  - Saurab Sharma
+  - Barry Sheehan
+  - Chunhu Shi
+  - Belal Shohayeb
+  - Andrew Sommerlad
+  - Jan Strehlow
+  - Xianbao Sun
+  - Raghav Sundar
+  - Ghazaleh Taherzadeh
+  - Nur D M Tahir
+  - Jun Tang
+  - Jean Testa
+  - Zhiqi Tian
+  - Qian Tingting
+  - Geert P Verheijen
+  - Casey Vickstrom
+  - Teng Wang
+  - Xiaomin Wang
+  - Zhenxing Wang
+  - Pan Wei
+  - Alex Wilson
+  - ' Wyart'
+  - Abdul-Amir Yassine
+  - Abbas Yousefzadeh
+  - Asma Zare
+  - Zhen Zeng
+  - Chengrong Zhang
+  - Haowen Zhang
+  - Linxing Zhang
+  - Tongchuan Zhang
+  - Weijia Zhang
+  - Zhe Zhang
+  - Jianyu Zhou
+  - Dongjie Zhu
+  - Vincenzo Adamo
+  - Adebolajo A Adeyemo
+  - Maria Aggelidou
+  - Adi M Al-Owaifeer
+  - Arwa Z Al-Riyami
+  - Saeed K Alzghari
+  - Vibeke Andersen
+  - Kathryn Angus
+  - Muhammad Asaduzzaman
+  - Hadi Asady
+  - Dai Ato
+  - Xiaoyong Bai
+  - Rebecca L Baines
+  - Maghan Ballantyne
+  - Bo Ban
+  - Jill Beck
+  - Walid Ben-Nafa
+  - Emma Black
+  - Antoine Blancher
+  - Ron Blankstein
+  - Neil Bodagh
+  - Paulo A V Borges
+  - Anastasia Brooks
+  - Josue Brox-Ponce
+  - Arturo Brunetti
+  - Colin D Canham
+  - Piero Carninci
+  - Richard Carvajal
+  - Shun C Chang
+  - Jie Chao
+  - Pranab Chatterjee
+  - He Chen
+  - Yi-Chun Chen
+  - Adnan K Chhatriwalla
+  - Ibrahim Chikowe
+  - Trees-Juen Chuang
+  - Rosane G Collevatti
+  - Diego A Valera-Cornejo
+  - Ana Cuenda
+  - Myriam Dao
+  - Delphine Dauga
+  - Zaian Deng
+  - Kiran Devkota
+  - Lisa V Doan
+  - Yaser H A Elewa
+  - Dongsheng Fan
+  - Mohammed Faruk
+  - Shi Feifei
+  - Trevor S Ferguson
+  - Francesco Fleres
+  - Emma J Foster
+  - C Stephen Foster
+  - Tzvi Furer
+  - Yibo Gao
+  - Enid J Garcia-Rivera
+  - Adi Gazdar
+  - Ronald B George
+  - Sayantan Ghosh
+  - Elena Gianchecchi
+  - Joshua M Gleason
+  - Allan Hackshaw
+  - Adam Hall
+  - Richard Hall
+  - Paul Harper
+  - William E Hogg
+  - Guangqun Huang
+  - Kylie E Hunter
+  - Adriaan P IJzerman
+  - Carlos Jesus
+  - Gao Jian
+  - James S Lewis Jr
+  - Souha S Kanj
+  - Harsheen Kaur
+  - Shona Kelly
+  - Fayez Kheir
+  - V S Kichatova
+  - Musa Kiyani
+  - Reinhild Klein
+  - Tom Kovesi
+  - Jennifer L Kraschnewski
+  - Addanki P Kumar
+  - Dmitry Labutin
+  - Alejandro Lazo-Langner
+  - Guy Leclercq
+  - Maoteng Li
+  - Qingchun Li
+  - Tangliang Li
+  - Yongzhe Li
+  - Wei-Ting Liao
+  - Zheng-yin Liao
+  - Jessica Lin
+  - J Lizer
+  - Giambattista Lobreglio
+  - Cher Lowies
+  - Cheng Lu
+  - Haroon Majeed
+  - Adam Martin
+  - Luis Martinez-Sobrido
+  - Edwin Meresh
+  - Marianne Middelveen
+  - Alireza Mohebbi
+  - Jorge Mota
+  - Zahra Mozaheb
+  - Ley Muyaya
+  - Amar Nandhakumar
+  - Sheryl H X Ng
+  - Monther Obeidat
+  - Deog-Hwan Oh
+  - Mohammed Owais
+  - Pia Pace-Asciak
+  - Ajay Panwar
+  - Caroline Park
+  - Chris Patterson
+  - Felipe Penagos-Tabaree
+  - Paolo T Pianosi
+  - Valentina Pinzi
+  - Clare Pridans
+  - Anna Psaroulaki
+  - Ravi Kumar Pujala
+  - Leonardo Pulido-Arjona
+  - Peng-Fei Qi
+  - Proton Rahman
+  - Nayanjot K Rai
+  - Tienush Rassaf
+  - Julie Refardt
+  - Walter Ricciardi
+  - Olaf Riess
+  - Alexandros Rovas
+  - Frank M Sacks
+  - Sherif Saleh
+  - Christopher Sampson
+  - Axel Schmutz
+  - Robert Sepanski
+  - Neeraj Sharma
+  - Manisha Singh
+  - Paul Spearman
+  - Mehala Subramaniapillai
+  - Ritu Swali
+  - Cher M Tan
+  - Juan I Tellechea
+  - Lisa-Marie Thomas
+  - Xin Tong
+  - Demetrios G Vavvas
+  - Ralf Veys
+  - Veronica Vitriol
+  - Horng-Dar Wang
+  - Jinhui Wang
+  - Jiucun Wang
+  - Jason Waugh
+  - S A Webb
+  - Brendan A Williams
+  - Alan D Workman
+  - Tingxiu Xiang
+  - Li-Xin Xie
+  - Jun Xu
+  - Taosheng Xu
+  - Chongjun Yang
+  - Jihoon G Yoon
+  - Christina M Yuan
+  - Arno Zaritsky
+  - Yao Zhang
+  - Haochen Zhao
+  - Hannah Zuckerman
+  - Ran Lyu
+  - Wayne Pullan
+  - Yaoqi Zhou
+  publisher: Database
+  date: '2019-01-01'
+  link: https://doi.org/gh8sx2
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/STROKEAHA.118.024293
+  title: "Machine Learning\u2013Based Model for Prediction of Outcomes in Acute Stroke"
+  authors:
+  - JoonNyung Heo
+  - Jihoon G. Yoon
+  - Hyungjong Park
+  - Young Dae Kim
+  - Hyo Suk Nam
+  - Ji Hoe Heo
+  publisher: Stroke
+  date: '2019-05-01'
+  link: https://doi.org/ggdnpq
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000429723400421
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000429723400421
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0195861
+  title: 'Machine learning-based diagnosis for disseminated intravascular coagulation
+    (DIC): Development, external validation, and comparison to scoring systems'
+  authors:
+  - Jihoon G. Yoon
+  - JoonNyung Heo
+  - Minkyu Kim
+  - Yu Jin Park
+  - Min Hyuk Choi
+  - Jaewoo Song
+  - Kangsan Wyi
+  - Hakbeen Kim
+  - Olivier Duchenne
+  - Soowon Eom
+  - Yury Tsoy
+  publisher: PLOS ONE
+  date: '2018-05-02'
+  link: https://doi.org/gdg7tf
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3343/alm.2017.37.6.516
+  title: 'A Unique Mutational Spectrum of <i>MLC1</i> in Korean Patients With Megalencephalic
+    Leukoencephalopathy With Subcortical Cysts: p.Ala275Asp Founder Mutation and Maternal
+    Uniparental Disomy of Chromosome 22'
+  authors:
+  - Sun Ah Choi
+  - Soo Yeon Kim
+  - Jihoo Yoon
+  - Joongmoon Choi
+  - Sung Sup Park
+  - Moon-Woo Seong
+  - Hunmin Kim
+  - Hee Hwang
+  - Ji Eun Choi
+  - Jong Hee Chae
+  - Ki Joong Kim
+  - Seunghyo Kim
+  - Yun-Jin Lee
+  - Sang Ook Nam
+  - Byung Chan Lim
+  publisher: Annals of Laboratory Medicine
+  date: '2017-11-01'
+  link: https://doi.org/g9zr4g
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ijlh.12689
+  title: 'Adopting automated image analysis tool for fibrin network: Can we obtain
+    clot properties for practical application?'
+  authors:
+  - J. G. Yoon
+  - J. Song
+  publisher: International Journal of Laboratory Hematology
+  date: '2017-05-12'
+  link: https://doi.org/g9zr4h
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3343/alm.2016.36.2.194
+  title: An 18.3-Mb Duplication on Chromosome 14q With Multiple Cardiac Anomalies
+    and Clubfoot Was Identified by Microarray Analysis
+  authors:
+  - Jihoon G. Yoon
+  - Saeam Shin
+  - Jo Won Jung
+  - Seung-Tae Lee
+  - Jong Rak Choi
+  publisher: Annals of Laboratory Medicine
+  date: '2016-03-01'
+  link: https://doi.org/g9zr4j
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1515/cclm-2015-1171
+  title: 'Automated CH50 liposome-based immunoassay: consideration in dilution and
+    validation of reference interval'
+  authors:
+  - Jihoon G. Yoon
+  - Borae G. Park
+  - Soon Sung Kwon
+  - Jaewoo Song
+  - Hyon-Suk Kim
+  publisher: Clinical Chemistry and Laboratory Medicine (CCLM)
+  date: '2016-03-25'
+  link: https://doi.org/g9zr4k
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JCM.02593-15
+  title: Comparison of Six Automated Treponema-Specific Antibody Assays
+  authors:
+  - Borae G. Park
+  - Jihoon G. Yoon
+  - John Hoon Rim
+  - Anna Lee
+  - Hyon-Suk Kim
+  publisher: Journal of Clinical Microbiology
+  date: '2016-01-01'
+  link: https://doi.org/f757k3
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mimet.2016.03.011
+  title: 'Magnetic bead-based nucleic acid purification kit: Clinical application
+    and performance evaluation in stool specimens'
+  authors:
+  - Jihoon G. Yoon
+  - Jin Seok Kang
+  - Seung Yong Hwang
+  - Jaewoo Song
+  - Seok Hoon Jeong
+  publisher: Journal of Microbiological Methods
+  date: '2016-05-01'
+  link: https://doi.org/f8kbxr
+  orcid: 0000-0002-4401-7803
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3349/ymj.2015.56.2.550
+  title: Comparison of MALDI-TOF MS, Housekeeping Gene Sequencing, and 16S rRNA Gene
+    Sequencing for Identification of<i>Aeromonas</i>Clinical Isolates
+  authors:
+  - Hee Bong Shin
+  - Jihoon Yoon
+  - Yangsoon Lee
+  - Myung Sook Kim
+  - Kyungwon Lee
+  publisher: Yonsei Medical Journal
+  date: '2015-01-01'
+  link: https://doi.org/f634zt
+  orcid: 0000-0002-4401-7803
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -201,9 +2470,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -220,21 +2486,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
