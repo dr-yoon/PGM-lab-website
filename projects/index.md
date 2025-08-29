@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Our research focuses on uncovering disease mechanisms to advance healthcare and treatment, leveraging genetic and genomic tools and approaches for precision medicine.
+Our research focuses on uncovering disease mechanisms to advance healthcare and treatment, leveraging (but not limited to) genetic and genomic tools and approaches for precision medicine.
 
 {% include search-info.html %}
 
