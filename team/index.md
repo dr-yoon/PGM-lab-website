@@ -5,19 +5,19 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %} Our Team
 
-Our lab is just launching 🚀
+Welcome to our newly established lab 🚀  
+We are building a collaborative research environment from the ground up, and we’re excited to grow our team.  
 
-Creating a collaborative lab from the ground up — join us!
+## 🌟 Join Us
+We are currently looking for motivated **postdoctoral researchers** with expertise in **molecular biology** and **bioinformatics**.  
 
-[Open positions]
-🕵🏻‍♀️
+[Open Positions] 🕵🏻‍♀️  
+If you’re interested in contributing to our projects, please send your CV ✉️ to **YOONJH@yuhs.ac**.  
 
-Postdoc scholars with experience in molecular biology and bioinformatics. 
+---
 
-Please send your CV ✉️ (YOONJH@yuhs.ac).
-   
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
