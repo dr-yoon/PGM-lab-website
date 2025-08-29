@@ -7,17 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-The following is a list of publications from the PGM Lab.
+The followings are selected publications contributing as main authors from the PGM Lab.
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
+## Selected publications
 
 {% include search-box.html %}
 
