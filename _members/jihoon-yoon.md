@@ -14,7 +14,18 @@ links:
 
 # Career
 
-## Academic & Professional Appointments
+## EDUCATION
+- **2006.03 – 2012.02**  
+  *MD*, Yonsei University College of Medicine, Seoul, Korea
+
+- **2017.03 – 2021.02**  
+  *PhD*, Department of Pharmacology, Yonsei University College of Medicine, Seoul, Korea  
+  *Physician-scientist program (Substitution of mandatory military service)*  
+  *Advisor*: Min Goo Lee, MD, PhD
+
+
+## PROFESSIONAL EXPERIENCE
+
 - **2024.03 – Present**  
   *Clinical Professor*, Department of Laboratory Medicine  
   Yonsei University College of Medicine, Gangnam Severance Hospital, Seoul, Korea  
@@ -25,14 +36,8 @@ links:
 
 - **2021.03 – 2022.02**  
   *Post-doctoral Research Fellow*, Boston Children’s Hospital & Broad Institute, Harvard Medical School, Boston, MA, USA  
-  *Co-advisors*: Dongwon Lee, PhD; Matthew Sampson, MD  
-
-## Education & Training
-- **2017.03 – 2021.02**  
-  *PhD*, Department of Pharmacology, Yonsei University College of Medicine, Seoul, Korea  
-  *Physician-scientist program (Substitution of mandatory military service)*  
-  *Advisor*: Min Goo Lee, MD, PhD  
-
+  *Co-advisors*: Dongwon Lee, PhD; Matthew Sampson, MD
+  
 - **2013.03 – 2017.02**  
   *Residency*, Department of Laboratory Medicine  
   Severance Hospital & Yonsei University College of Medicine, Seoul, Korea  
@@ -44,7 +49,4 @@ links:
   *(Grant supported by the Korean Ministry of Health and Welfare)*  
 
 - **2012.03 – 2013.02**  
-  *Internship*, Severance Hospital & Yonsei University College of Medicine, Seoul, Korea  
-
-- **2006.03 – 2012.02**  
-  *MD*, Yonsei University College of Medicine, Seoul, Korea  
+  *Internship*, Severance Hospital & Yonsei University College of Medicine, Seoul, Korea
