@@ -4,6 +4,7 @@ image: team/photos/jihoon-yoon.png
 role: principal-investigator
 affiliation: Yonsei University College of Medicine
 aliases:
+  - Jihoon G. Yoon
   - Jihoon Yoon
   - JG Yoon
 links:
