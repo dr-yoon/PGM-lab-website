@@ -1,9 +1,9 @@
 ---
 ---
 
-# Welcome to the homepage of Laboratory for Precision Genome Medicine (PGM) 
+# Welcome to the Laboratory for Precision Genome Medicine (PGM) 
 
-Genomic Discovery to Precision Medicine
+Genomic Discovery To Precision Medicine
 
 {% include section.html %}
 
