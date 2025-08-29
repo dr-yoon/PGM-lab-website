@@ -1,20 +1,18 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Jihoon G. Yoon
+image: team/photos/jihoon-yoon.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Yonsei University College of Medicine
 aliases:
-  - J. Smith
-  - J Smith
+  - Jihoon Yoon
+  - JG Yoon
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://dr-yoon.github.io/PGM-lab-website/
+  orcid: 0000-0002-4401-7803
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+EDUCATION
+2017.03 – 2021.02 Department of Pharmacology, Yonsei University College of Medicine, Seoul, Korea
+                  Physician-scientist program (Substitution of mandatory military service)
+                  PhD (Advisor: Min Goo Lee, MD, PhD)
+2006.03 – 2012.02 Yonsei University College of Medicine, Seoul, Korea
+                  MD
