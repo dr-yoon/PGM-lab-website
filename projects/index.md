@@ -37,13 +37,17 @@ We aim to establish a robust diagnostic infrastructure by building a Korean refe
   **Funding Period:** September 1, 2025 – December 31, 2029  
   **Total Expenses:** 547,727,272.73 KRW
 
-META-Center aims to uncover how cancer metastasis occurs. Our Group 3-3 team focuses on analyzing epigenomic changes in cancer tissues with long-read sequencing technologies.
+META-Center aims to uncover how cancer metastasis occurs. Our Group 3-2 team focuses on analyzing epigenomic changes in cancer tissues with long-read sequencing technologies.
   
   **Funding Source:**  Global Collaborative Research Support for Physician-Scientists, Korea Health Industry Development Institute (KHIDI)  
-{%
-  include figure.html
-  image="images/META-Center.jpg"
-  image2="images/META-Center_members.jpg"
-  caption="META-Center (MEtastasis Targeting and Analysis Center)"
-  width="800px"
+{% include figure.html
+   image="images/META-Center.jpg"
+   caption="META-Center (Metastasis Targeting and Analysis Center)"
+   width="800px"
+%}
+
+{% include figure.html
+   image="images/META-Center_members.jpg"
+   caption="META-Center Members"
+   width="800px"
 %}
