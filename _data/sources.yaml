@@ -1,23 +1,23 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+- id: doi:10.1186/s13073-025-01513-w
+  image: https://genomemedicine.biomedcentral.com/static/images/bmc/logos/genome-medicine-logo-24b9193f4f.svg
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1172/jci.insight.176985
+  image: https://insight.jci.org/assets/common/insight-white-on-transparent.20160208-0ce7c11085a7b0f6aa8029aca307bb56c445f25824aee58a72026601bab3efca.png
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1038/s41525-024-00449-1
+  image: https://media.springernature.com/full/nature-cms/uploads/product/npjgenmed/header-d59e23e52ffacae5c9f83e58d6f5e610.svg
+
+- id: doi:10.1016/j.ajhg.2024.06.015
+  image: https://ars.els-cdn.com/content/image/B00029297.svg
+
+- id: doi:10.1038/s12276-024-01172-8
+  image: https://media.springernature.com/full/nature-cms/uploads/product/emm/header-d8217f38d70a68088a50cb0998a1912d.svg
+
+- id: doi:10.1038/s41431-024-01542-w
+  image: https://media.springernature.com/full/nature-cms/uploads/product/ejhg/header-d8ba0ed98c6cf5de4fa2ee89c28067ff.svg
+
+- id: doi:10.1002/mds.29275
+  image: https://movementdisorders.onlinelibrary.wiley.com/pb-assets/hub-assets/movementdisorders/logo-header-1671178710230.png
+
+- id: doi:10.1002/hep.31862
+  image: https://www.aasld.org/themes/custom/aasld_theme/logo.svg
