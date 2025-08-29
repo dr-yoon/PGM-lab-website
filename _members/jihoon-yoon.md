@@ -10,6 +10,8 @@ aliases:
 links:
   home-page: https://dr-yoon.github.io/PGM-lab-website/
   orcid: 0000-0002-4401-7803
+  google-scholar: KIKGLvMAAAAJ
+
 ---
 
 # Career
