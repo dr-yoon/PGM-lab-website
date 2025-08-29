@@ -15,12 +15,12 @@ links:
 # Career
 
 ## EDUCATION
-- **2006.03 – 2012.02**  
-  *MD*, Yonsei University College of Medicine, Seoul, Korea
-
 - **2017.03 – 2021.02**  
   *PhD*, Department of Pharmacology, Yonsei University College of Medicine, Seoul, Korea  
   *Physician-scientist program (Advisor: Min Goo Lee, MD, PhD)*
+
+- **2006.03 – 2012.02**  
+  *MD*, Yonsei University College of Medicine, Seoul, Korea
 
 
 ## PROFESSIONAL EXPERIENCE
