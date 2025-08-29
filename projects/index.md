@@ -26,6 +26,6 @@ We aim to establish a robust diagnostic infrastructure by building a Korean refe
 {%
   include figure.html
   image="images/project-RS-2025-02214700.jpg"
-  caption="Global Physician-Scientist Development Program"
-  width="400px"
+  caption="Development of Nanopore Sequencing-Based Genomic Analysis and Diagnostic Technologies for Clinical Application"
+  width="800px"
 %}
