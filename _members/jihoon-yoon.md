@@ -35,7 +35,7 @@ links:
 
 - **2021.03 – 2022.02**  
   *Post-doctoral Research Fellow*, Boston Children’s Hospital & Broad Institute, Harvard Medical School, Boston, MA, USA  
-  *Co-advisors*: Dongwon Lee, PhD; Matthew Sampson, MD
+  *(Co-advisors*: Dongwon Lee, PhD; Matthew Sampson, MD)
   
 - **2013.03 – 2017.02**  
   *Residency*, Department of Laboratory Medicine  
