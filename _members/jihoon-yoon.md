@@ -44,7 +44,6 @@ links:
 - **2016.05 – 2016.06**  
   *Visiting Scholar*, HLA Informatics Group, Anthony Nolan Research Institute &  
   Immunogenetics, Cancer Institute, University College London, London, UK *(Advisor: Steven GE Marsh, PhD)*
-  *(Grant supported by the Korean Ministry of Health and Welfare)*  
 
 - **2012.03 – 2013.02**  
   *Internship*, Severance Hospital & Yonsei University College of Medicine, Seoul, Korea
