@@ -3,7 +3,7 @@
   tags:
     - 한빛사
   buttons:
-  - type: source
+  - type: website
     link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=98171&authorId=34183&pager.offset=0&pagerLimit=10&srAuthorId=34183&beforemode=author-treatise-list#!/list
 
 - id: doi:10.1172/jci.insight.176985
@@ -26,7 +26,7 @@
   tags:
     - 한빛사
   buttons:
-  - type: source
+  - type: website
     link: https://www.ibric.org/bric/hanbitsa/han-interview.do?mode=view&id=92659&authorId=34183#!/list
 
 - id: doi:10.1038/s41431-024-01542-w
@@ -43,7 +43,7 @@
   tags:
     - 한빛사
   buttons:
-    - type: source
+    - type: website
       link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=69394&authorId=34183&pager.offset=0&pagerLimit=10&srAuthorId=34183&beforemode=author-treatise-list#!/list
 
 - id: doi:10.1161/10.1093/neuros/nyz470
