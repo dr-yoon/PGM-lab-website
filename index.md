@@ -3,7 +3,7 @@
 
 # Welcome to the Laboratory for Precision Genome Medicine (PGM) 
 
-Genomic Discovery To Precision Medicine
+Our lab conducts a broad range of **translational research** at the intersection of **human genetics** and **precision medicine**. Our mission is to bridge fundamental discoveries in genetics with clinical applications that improve diagnosis, treatment, and outcomes.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ Genomic Discovery To Precision Medicine
 
 {% capture text %}
 
-Publication lists in our lab.
+Explore the publication lists in our lab.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Publication lists in our lab.
 
 {% capture text %}
 
-Main topics of our research
+Main ongoing projects
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Main topics of our research
 
 {% capture text %}
 
-Our lab members
+Lab members
 
 {%
   include button.html
