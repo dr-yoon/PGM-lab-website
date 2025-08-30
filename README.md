@@ -8,4 +8,4 @@
 
 This is the GitHub page for the website.
 
-Please visit our website here >> **[PGM-Lab](https://dr-yoon.github.io/PGM-lab-website)** 🚀
+Please visit our website here >> **[dr-yoon.github.io/PGM-lab-website](https://dr-yoon.github.io/PGM-lab-website)** 🚀
