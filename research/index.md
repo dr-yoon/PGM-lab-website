@@ -18,6 +18,11 @@ Our research spans the following key areas:
 
 {% include section.html %}
 
+## Preprints
+
+Early access to our ongoing research prior to peer-reviewed publication.
+
+
 ## Selected publications
 
 The following is a list of representative publications from the PGM Lab where our team has contributed as main authors. 
