@@ -9,10 +9,6 @@ nav:
 
 Our research focuses on uncovering disease mechanisms to advance healthcare and treatment, leveraging (but not limited to) genetic and genomic tools and approaches for precision medicine.
 
-{% include search-info.html %}
-
-{% include section.html %}
-
 ## Ongoing project 1
 
   **Title:** *Development of Nanopore Sequencing-Based Genomic Analysis and Diagnostic Technologies for Clinical Application*  
