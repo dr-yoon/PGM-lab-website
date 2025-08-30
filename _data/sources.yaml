@@ -2,6 +2,9 @@
   image: https://media.springernature.com/full/springer-static/cover-hires/journal/13073
   tags:
     - 한빛사
+  buttons:
+  - type: source
+    link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=98171&authorId=34183&pager.offset=0&pagerLimit=10&srAuthorId=34183&beforemode=author-treatise-list#!/list
 
 - id: doi:10.1172/jci.insight.176985
   image: https://df6sxcketz7bb.cloudfront.net/volumes/10/4/10-4-cover.jpg
