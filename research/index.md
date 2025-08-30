@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our lab conducts a broad range of **translational research** at the intersection of **human genetics** and **precision medicine**. Our mission is to bridge fundamental discoveries in genetics with clinical applications that improve diagnosis, treatment, and outcomes.  
-
 Our research spans the following key areas:  
 
 - **Human Genetics** 
