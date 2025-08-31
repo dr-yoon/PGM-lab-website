@@ -106,6 +106,9 @@
   date: '2024-08-01'
   link: https://doi.org/g9zr3k
   image: https://www.cell.com/cms/asset/4fe2b929-3462-498a-beb3-86658b9266b2/cov200h.gif
+  buttons:
+  - type: website
+    link: https://www.docdocdoc.co.kr/news/articleView.html?idxno=3020192
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1212/NXG.0000000000200147
@@ -274,7 +277,7 @@
   description: "**\uD55C\uBE5B\uC0AC \uB17C\uBB38**"
   buttons:
   - type: website
-    link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=69394&authorId=34183
+    link: https://www.dailymedi.com/news/news_view.php?wr_id=868921
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/neuros/nyz470
