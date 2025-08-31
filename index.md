@@ -7,6 +7,8 @@ Our lab conducts a broad range of **translational research** at the intersection
 
 {% include section.html %}
 
+---
+
 ## Highlights
 
 {% capture text %}
@@ -26,7 +28,7 @@ Explore the publication lists in our lab.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +51,7 @@ Main ongoing projects
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/project.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +76,7 @@ Lab members
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
