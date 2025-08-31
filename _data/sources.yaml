@@ -1,9 +1,9 @@
 - id: doi:10.1186/s13073-025-01513-w
   image: https://media.springernature.com/full/springer-static/cover-hires/journal/13073
-  description: **한빛사 논문**
+  description: "**한빛사 논문**"
   buttons:
   - type: website
-    link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=98171&authorId=34183&pager.offset=0&pagerLimit=10&srAuthorId=34183&beforemode=author-treatise-list#!/list
+    link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=98171&authorId=34183
 
 - id: doi:10.1172/jci.insight.176985
   image: https://df6sxcketz7bb.cloudfront.net/volumes/10/4/10-4-cover.jpg
@@ -22,10 +22,10 @@
 
 - id: doi:10.1038/s12276-024-01172-8
   image: https://media.springernature.com/full/nature-cms/uploads/product/emm/header-d8217f38d70a68088a50cb0998a1912d.svg
-  description: **한빛사 논문**
+  description: "**한빛사 논문**"
   buttons:
   - type: website
-    link: https://www.ibric.org/bric/hanbitsa/han-interview.do?mode=view&id=92659&authorId=34183#!/list
+    link: https://www.ibric.org/bric/hanbitsa/han-interview.do?mode=view&id=92659&authorId=34183
 
 - id: doi:10.1038/s41431-024-01542-w
   image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41431/32/2
@@ -33,15 +33,15 @@
 - id: doi:10.1002/mds.29275
   image: https://movementdisorders.onlinelibrary.wiley.com/cms/asset/c9b0ea53-325a-4e26-81a2-bf7887ebc6eb/mds.v38.2.cover.gif
 
-- id: 10.1097/TP.0000000000003660
+- id: doi:10.1097/TP.0000000000003660
   image: https://images.journals.lww.com/transplantjournal/LargeRollover.00007890-202110000-00000.CV.jpeg
 
 - id: doi:10.1002/hep.31862
   image: https://images.journals.lww.com/hep/LargeRollover.01515467-202110000-00000.CV.jpeg
-  description: **한빛사 논문**
+  description: "**한빛사 논문**"
   buttons:
   - type: website
-    link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=69394&authorId=34183&pager.offset=0&pagerLimit=10&srAuthorId=34183&beforemode=author-treatise-list#!/list
+    link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=69394&authorId=34183
 
 - id: doi:10.1161/10.1093/neuros/nyz470
   image: https://images.journals.lww.com/neurosurgery/LargeRollover.00006123-202008000-00000.CV.jpeg
