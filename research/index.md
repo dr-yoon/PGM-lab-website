@@ -12,7 +12,7 @@ Our research spans the following key areas:
 - **Human Genetics** 
 - **Cancer Genetics**
 - **Pharmacogenomics**
-- **Artificial Intelligence & Machine Learning**
+- **Bioinformatics & Artificial Intelligence**
 
 {% include section.html %}
 
