@@ -7,8 +7,6 @@ Our lab conducts a broad range of **translational research** at the intersection
 
 {% include section.html %}
 
----
-
 ## Highlights
 
 {% capture text %}
