@@ -32,7 +32,11 @@
   publisher: Genome Medicine
   date: '2025-08-06'
   link: https://doi.org/g9zr3f
-  image: https://media.springernature.com/lw725/springer-cms/rest/v1/content/27457978/data/v3
+  image: https://media.springernature.com/full/springer-static/cover-hires/journal/13073
+  description: "**\uD55C\uBE5B\uC0AC \uB17C\uBB38**"
+  buttons:
+  - type: website
+    link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=98171&authorId=34183
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1172/jci.insight.176985
@@ -101,7 +105,49 @@
   publisher: The American Journal of Human Genetics
   date: '2024-08-01'
   link: https://doi.org/g9zr3k
-  image: https://ars.els-cdn.com/content/image/B00029297.svg
+  image: https://www.cell.com/cms/asset/4fe2b929-3462-498a-beb3-86658b9266b2/cov200h.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1212/NXG.0000000000200147
+  title: "Prevalence and Characterization of\n            <i>NOTCH2NLC</i>\n     \
+    \       GGC Repeat Expansions in Koreans"
+  authors:
+  - Seungbok Lee
+  - Jihoon G. Yoon
+  - Juhyeon Hong
+  - Taekeun Kim
+  - Narae Kim
+  - Jana Vandrovcova
+  - Wai Yan Yau
+  - Jaeso Cho
+  - Sheehyun Kim
+  - Man Jin Kim
+  - Soo Yeon Kim
+  - Soon-Tae Lee
+  - Kon Chu
+  - Sang Kun Lee
+  - Han-Joon Kim
+  - Jungmin Choi
+  - Jangsup Moon
+  - Jong-Hee Chae
+  publisher: Neurology Genetics
+  date: '2024-06-01'
+  link: https://doi.org/g9zr3v
+  image: https://www.neurology.org/cms/asset/c16d654d-792f-45fe-a507-86563511905d/nxg.2024.10.issue-3.cover.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1212/NXG.0000000000200141
+  title: Late-Onset Ataxia-Telangiectasia Presenting With Dystonia and Tremor
+  authors:
+  - Bora Jin
+  - Jihoon G. Yoon
+  - Aryun Kim
+  - Jangsup Moon
+  - Han-Joon Kim
+  publisher: Neurology Genetics
+  date: '2024-04-01'
+  link: https://doi.org/g9zr3m
+  image: https://www.neurology.org/cms/asset/8e9f97b0-fb07-4245-b741-39c897b98388/nxg.2024.10.issue-2.cover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s12276-024-01172-8
@@ -135,9 +181,10 @@
   date: '2024-03-01'
   link: https://doi.org/g9zr3x
   image: https://media.springernature.com/full/nature-cms/uploads/product/emm/header-d8217f38d70a68088a50cb0998a1912d.svg
+  description: "**\uD55C\uBE5B\uC0AC \uB17C\uBB38**"
   buttons:
-  - type: source
-    link: https://www.ibric.org/bric/hanbitsa/han-interview.do?mode=view&id=92659&authorId=34183#!/list
+  - type: website
+    link: https://www.ibric.org/bric/hanbitsa/han-interview.do?mode=view&id=92659&authorId=34183
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41431-024-01542-w
@@ -156,7 +203,7 @@
   publisher: European Journal of Human Genetics
   date: '2024-02-02'
   link: https://doi.org/g9zr3q
-  image: https://media.springernature.com/full/nature-cms/uploads/product/ejhg/header-d8ba0ed98c6cf5de4fa2ee89c28067ff.svg
+  image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41431/32/2
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/mds.29275
@@ -171,7 +218,36 @@
   publisher: Movement Disorders
   date: '2022-11-21'
   link: https://doi.org/g9zr34
-  image: https://movementdisorders.onlinelibrary.wiley.com/pb-assets/hub-assets/movementdisorders/logo-header-1671178710230.png
+  image: https://movementdisorders.onlinelibrary.wiley.com/cms/asset/c9b0ea53-325a-4e26-81a2-bf7887ebc6eb/mds.v38.2.cover.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1097/TP.0000000000003660
+  title: Unraveling the Genomic Architecture of the CYP3A Locus and ADME Genes for
+    Personalized Tacrolimus Dosing
+  authors:
+  - Jihoon G. Yoon
+  - Seung Hwan Song
+  - Sungkyoung Choi
+  - Jaeseong Oh
+  - In-Jin Jang
+  - Young Jin Kim
+  - Sanghoon Moon
+  - Bong-Jo Kim
+  - Yuri Cho
+  - Hyo Kee Kim
+  - Sangil Min
+  - Jongwon Ha
+  - Ho Sik Shin
+  - Chul Woo Yang
+  - Hye Eun Yoon
+  - Jaeseok Yang
+  - Min Goo Lee
+  - Jae Berm Park
+  - Myoung Soo Kim
+  publisher: Transplantation
+  date: '2021-10-01'
+  link: https://doi.org/g669cs
+  image: https://images.journals.lww.com/transplantjournal/LargeRollover.00007890-202110000-00000.CV.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/hep.31862
@@ -195,8 +271,43 @@
   date: '2021-07-29'
   link: https://doi.org/gmmnmj
   image: https://images.journals.lww.com/hep/LargeRollover.01515467-202110000-00000.CV.jpeg
+  description: "**\uD55C\uBE5B\uC0AC \uB17C\uBB38**"
   buttons:
-  - type: source
-    link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=69394&authorId=34183&pager.offset=0&pagerLimit=10&srAuthorId=34183&beforemode=author-treatise-list#!/list
+  - type: website
+    link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=69394&authorId=34183
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/neuros/nyz470
+  title: Molecular Diagnosis of Craniosynostosis Using Targeted Next-Generation Sequencing
+  authors:
+  - Jihoon G Yoon
+  - Hyung Min Hahn
+  - Sungkyoung Choi
+  - Soo Jung Kim
+  - Sowon Aum
+  - Jung Woo Yu
+  - Eun Kyung Park
+  - Kyu Won Shim
+  - Min Goo Lee
+  - Yong Oock Kim
+  publisher: Neurosurgery
+  date: '2019-11-22'
+  link: https://doi.org/g3729m
+  image: https://images.journals.lww.com/neurosurgery/LargeRollover.00006123-202008000-00000.CV.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1161/STROKEAHA.118.024293
+  title: "Machine Learning\u2013Based Model for Prediction of Outcomes in Acute Stroke"
+  authors:
+  - JoonNyung Heo
+  - Jihoon G. Yoon
+  - Hyungjong Park
+  - Young Dae Kim
+  - Hyo Suk Nam
+  - Ji Hoe Heo
+  publisher: Stroke
+  date: '2019-05-01'
+  link: https://doi.org/ggdnpq
+  image: https://www.ahajournals.org/cms/asset/c9a1e6f6-7343-4efb-bc47-bd527a99a1a2/str.2019.50.issue-5.cover.jpg
   plugin: sources.py
   file: sources.yaml
