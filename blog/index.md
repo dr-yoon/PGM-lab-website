@@ -9,6 +9,8 @@ nav:
 
 {% include section.html %}
 
+Please visit our legacy blog: [두마디 정밀의료 (Towards Precision Medicine)](https://2wordspm.wordpress.com/) for additional information.
+
 {% include search-box.html %}
 
 {% include tags.html tags=site.tags %}
