@@ -48,3 +48,17 @@ links:
 
 - **2012.03 – 2013.02**  
   *Internship*, Severance Hospital & Yonsei University College of Medicine, Seoul, Korea
+
+
+## AWARDS
+
+- **Young Investigator Award in Basic Medical Science**, the Korean Medical Association, 2022
+
+
+## CERTIFICATE
+
+- **2024.07 – Present**  Certified in *M.D. Medical Geneticist*, the Korean Society of Medical Genetics and Genomics
+
+- **2017.03 – Present**  Board-certified in *Clinical Pathology/Laboratory Medicine*, the Korean Society for Laboratory Medicine
+
+- **2012.03 – Present**  Certified in *Medical Doctor (Korean Medical License)*, the Korean Medical Association
