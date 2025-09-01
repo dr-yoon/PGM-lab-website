@@ -7,11 +7,23 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-주소: 서울 강남구 도곡로 235 강남세브란스병원 비자검진센터 6층
+📍 **주소:**  
+서울특별시 강남구 도곡로 235  
+강남세브란스병원 비자검진센터 6층
 
-Address: 6F Visa Examination Center, Dogok-ro 235, Gangnam-gu, Seoul, Republic of Korea
+🚄 **교통편:**  
+지하철 한티역 (수인분당선) 도보 10분 거리, 
+지하철 매봉역 (3호선) 도보 15분 거리
 
-If you have any question, please send an e-mail
+📍 **Address:**  
+6F, Visa Examination Center  
+Gangnam Severance Hospital  
+235 Dogok-ro, Gangnam-gu  
+Seoul, Republic of Korea  
+
+✉️ **Email:**  
+If you have any questions or inquiries, please feel free to contact us via email at:  
+[YOONJH@yuhs.ac](mailto:YOONJH@yuhs.ac)  
 
 {%
   include button.html
