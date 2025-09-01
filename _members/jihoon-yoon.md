@@ -13,7 +13,7 @@ links:
 
 ---
 
-# Career
+# Principal Investigator
 
 ## EDUCATION
 - **2017.03 – 2021.02**  
