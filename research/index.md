@@ -14,6 +14,14 @@ Our research spans the following key areas:
 - **Pharmacogenomics**
 - **Bioinformatics & Artificial Intelligence**
 
+## 🚀 Research Topics
+
+- **🧬 Variant Interpretation Tools**  
+  Developing bioinformatics tools to improve the accuracy of genomic analysis.
+
+- **📜 Understanding Modern Human Diseases Through Ancient Genomes**  
+  Leveraging ancient DNA to gain insights into the genetic basis of modern diseases.
+
 {% include section.html %}
 
 ## Preprints
