@@ -13,7 +13,7 @@ Our mission is to bridge fundamental discoveries in genetics with clinical appli
 
 {% capture text %}
 
-Explore the publication lists in our lab.
+Explore the research area and publication lists in our lab.
 
 {%
   include button.html
