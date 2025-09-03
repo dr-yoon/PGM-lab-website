@@ -39,6 +39,26 @@
     link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=98171&authorId=34183
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1186/s12920-024-02058-4
+  title: Identification of a novel non-coding deletion in Allan-Herndon-Dudley syndrome
+    by long-read HiFi genome sequencing
+  authors:
+  - Jihoon G. Yoon
+  - Seungbok Lee
+  - Soojin Park
+  - Se Song Jang
+  - Jaeso Cho
+  - Man Jin Kim
+  - Soo Yeon Kim
+  - Woo Joong Kim
+  - Jin Sook Lee
+  - Jong-Hee Chae
+  publisher: BMC Medical Genomics
+  date: '2025-03-03'
+  link: https://doi.org/g9zr3g
+  image: https://media.springernature.com/w120/springer-static/cover-hires/journal/12920?as=webp
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1172/jci.insight.176985
   title: Digenic impairments of haploinsufficient genes in patients with craniosynostosis
   authors:
