@@ -55,7 +55,7 @@ META-Center aims to uncover how cancer metastasis occurs. Our Group 3-2 team foc
   **Funding Period:** September 1, 2025 – October 31, 2026  
   **Total Expenses:** 50,000,000 KRW  
 
-In collaboration with **Prof. Heon Yung Gee** (Department of Pharmacology) and **Prof. Jinsei Jung** (Department of Otorhinolaryngology),  
+In collaboration with **Prof. Heon Yung Gee** (Department of Pharmacology) and **Prof. Jinsei Jung** (Department of Otorhinolaryngology) at Yonsei University College of Medicine,  
 we will investigate undiagnosed hereditary hearing loss cases to identify novel associated genes and variants using long-read sequencing technology.
 
   **Funding Source:**  Gangnam Severance Hospital, Yonsei University College of Medicine  
