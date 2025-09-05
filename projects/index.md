@@ -47,3 +47,20 @@ META-Center aims to uncover how cancer metastasis occurs. Our Group 3-2 team foc
    caption="META-Center Members"
    width="800px"
 %}
+
+## Ongoing project 3
+
+  **Title:** *Novel Gene Discovery and Functional Characterization in Undiagnosed Hereditary Hearing Loss Using Long-Read Sequencing*  
+  **Grant No.:** D-2025-0010  
+  **Funding Period:** September 1, 2025 – October 31, 2026  
+  **Total Expenses:** 50,000,000 KRW  
+
+In collaboration with **Prof. Heon Yung Gee** (Department of Pharmacology) and **Prof. Jinsei Jung** (Department of Otorhinolaryngology),  
+we will investigate undiagnosed hereditary hearing loss cases to identify novel associated genes and variants using long-read sequencing technology.
+
+  **Funding Source:**  Gangnam Severance Hospital, Yonsei University College of Medicine  
+{% include figure.html
+   image="images/hearing-loss-study.png"
+   caption="Novel gene discovery and functional characterization in Undiagnosed Hereditary Hearing Loss"
+   width="800px"
+%}
