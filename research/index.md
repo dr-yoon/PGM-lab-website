@@ -37,7 +37,7 @@ Bringing nanopore and HiFi long-read sequencing technologies in to the clinic fo
 
 Early access to our ongoing research prior to peer-reviewed publication.
 
-**Yoon *et al.* (2025)** – *A predictive framework for stop-loss variants with C-terminal extensions*. Preprint at **bioRxiv**. [doi:DOI_HERE](https://doi.org/DOI_HERE)
+**Yoon *et al.* (2025)** – *A predictive framework for stop-loss variants with C-terminal extensions*. Preprint at **bioRxiv**. [doi:10.1101/2025.09.01.673407](https://doi.org/10.1101/2025.09.01.673407)
 
 
 ## Selected Publications
