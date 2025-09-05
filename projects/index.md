@@ -32,7 +32,7 @@ We aim to establish a robust diagnostic infrastructure by building a Korean refe
   **Title:** *Elucidating the Mechanisms of Cancer Metastasis through Time-Series Multi-Analysis and Developing Control Technologies*  
   **Grant No.:** RS-2025-25459146  
   **Funding Period:** September 1, 2025 – December 31, 2029  
-  **Total Expenses:** 547,727,272.73 KRW
+  **Total Expenses:** 6,625,000,000 KRW
   **Role:** Co-Investigator
 
 
