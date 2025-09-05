@@ -15,6 +15,7 @@ Our research focuses on uncovering disease mechanisms to advance healthcare and 
   **Grant No.:** RS-2025-02214700  
   **Funding Period:** April 1, 2025 – December 31, 2027  
   **Total Expenses:** 550,000,000 KRW
+  **Role:** Principal Investigator
 
 We aim to establish a robust diagnostic infrastructure by building a Korean reference genome database, developing advanced data analysis pipelines, and designing as well as evaluating disease-specific gene panels. Through these efforts, we will validate the clinical utility of nanopore sequencing technology.
   
@@ -32,6 +33,8 @@ We aim to establish a robust diagnostic infrastructure by building a Korean refe
   **Grant No.:** RS-2025-25459146  
   **Funding Period:** September 1, 2025 – December 31, 2029  
   **Total Expenses:** 547,727,272.73 KRW
+  **Role:** Co-Investigator
+
 
 META-Center aims to uncover how cancer metastasis occurs. Our Group 3-2 team focuses on analyzing epigenomic changes in cancer tissues with long-read sequencing technologies.
   
@@ -53,7 +56,8 @@ META-Center aims to uncover how cancer metastasis occurs. Our Group 3-2 team foc
   **Title:** *Novel Gene Discovery and Functional Characterization in Undiagnosed Hereditary Hearing Loss Using Long-Read Sequencing*  
   **Grant No.:** D-2025-0010  
   **Funding Period:** September 1, 2025 – October 31, 2026  
-  **Total Expenses:** 50,000,000 KRW  
+  **Total Expenses:** 50,000,000 KRW
+  **Role:** Co-Principal Investigator
 
 In collaboration with **Prof. Heon Yung Gee** (Department of Pharmacology) and **Prof. Jinsei Jung** (Department of Otorhinolaryngology) at Yonsei University College of Medicine,  
 we will investigate undiagnosed hereditary hearing loss cases to identify novel associated genes and variants using long-read sequencing technology.
