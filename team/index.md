@@ -23,10 +23,11 @@ If you’re interested in contributing to our projects, please send your CV ✉�
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
 Laboratory for Precision Genome Medicine (PGM Lab) – Directed by Jihoon Yoon, M.D., Ph.D.
 
 Department of Laboratory Medicine, Yonsei University College of Medicine, Seoul, Republic of Korea.
 
 ![Yonsei University Logo](/images/yonsei_logo.svg){: style="width:200px; display:block; margin:auto;" }
+
+{% include section.html background="images/background.jpg" dark=true %}
+
