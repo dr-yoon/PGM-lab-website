@@ -8,4 +8,4 @@
 
 This is the GitHub page for the website.
 
-Please visit our website here >> **[pgmlab.org](http://pgmlab.org)** 🚀
+Please visit our website here >> **[pgmlab.org](https://pgmlab.org)** 🚀
