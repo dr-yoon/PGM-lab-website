@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %} Our Team
 
 Welcome to our newly established lab 🚀  
-We are building a collaborative research environment from the ground up, and we’re excited to grow our team.  
+We are building a collaborative research environment from the ground up, and we’re excited to grow our team.
 
 ## 🌟 Join Us
 We are currently looking for motivated **postdoctoral researchers** with expertise in **molecular biology** and **bioinformatics**.  
@@ -24,3 +24,7 @@ If you’re interested in contributing to our projects, please send your CV ✉�
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
+
+Laboratory for Precision Genome Medicine (PGM Lab) – Directed by Jihoon Yoon, M.D., Ph.D.
+
+Department of Laboratory Medicine, Yonsei University College of Medicine, Seoul, Republic of Korea.
