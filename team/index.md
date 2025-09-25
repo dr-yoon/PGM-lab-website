@@ -30,8 +30,6 @@ If you’re interested in contributing to our projects, please send your CV ✉�
 
 ---
 
-{% include section.html background="images/background.jpg" dark=true %}
-
 <div align="center" style="margin-top:2em;">
   <p><strong>Laboratory for Precision Genome Medicine (PGM Lab)</strong><br>
   Directed by Jihoon G. Yoon, M.D., Ph.D.<br>
