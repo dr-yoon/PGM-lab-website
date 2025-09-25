@@ -1,20 +1,20 @@
 ---
 ---
 
-# Welcome to the Laboratory for Precision Genome Medicine (PGM) 
+# Welcome to the Laboratory for Precision Genome Medicine (PGM)
 
-Our lab conducts a broad range of **translational research** at the intersection of **human genetics** and **precision medicine**.
+Our lab conducts a broad range of **translational research** at the intersection of **human genetics** and **precision medicine**.  
 
-Our mission is to bridge fundamental discoveries in genetics with clinical applications that improve diagnosis, treatment, and clinical outcomes.
+Our mission is to **bridge fundamental discoveries in genetics with clinical applications** that improve diagnosis, treatment, and outcomes for individuals with genetic disorders.  
+
+---
 
 {% include section.html %}
 
-## Highlights
+## 🔬 Highlights
 
 {% capture text %}
-
-Explore the research area and publication lists in our lab.
-
+Discover our research areas and browse recent publications from our lab.  
 {%
   include button.html
   link="research"
@@ -23,7 +23,6 @@ Explore the research area and publication lists in our lab.
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
 
 {%
@@ -35,9 +34,7 @@ Explore the research area and publication lists in our lab.
 %}
 
 {% capture text %}
-
-Main ongoing projects
-
+Learn more about our main ongoing projects across genomics and precision medicine.  
 {%
   include button.html
   link="projects"
@@ -46,7 +43,6 @@ Main ongoing projects
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
 
 {%
@@ -60,9 +56,7 @@ Main ongoing projects
 %}
 
 {% capture text %}
-
-Lab members
-
+Meet the people behind our research and discover opportunities to join us.  
 {%
   include button.html
   link="team"
@@ -71,7 +65,6 @@ Lab members
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
 
 {%
@@ -81,3 +74,12 @@ Lab members
   title="Our Team"
   text=text
 %}
+
+---
+
+<div align="center" style="margin-top:2em;">
+  <p><strong>Laboratory for Precision Genome Medicine (PGM Lab)</strong><br>
+  Directed by Jihoon G. Yoon, M.D., Ph.D.<br>
+  Department of Laboratory Medicine, Yonsei University College of Medicine, Seoul, Republic of Korea.</p>
+  <img src="/images/yonsei_logo.svg" alt="Yonsei University Logo" width="200" style="margin-top:1em;">
+</div>
