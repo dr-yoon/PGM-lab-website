@@ -14,11 +14,11 @@ Our mission is to **bridge fundamental discoveries in genetics with clinical app
 ## 🔬 Highlights
 
 {% capture text %}
-Discover our research areas and browse recent publications from our lab.  
+We use data science to answer important questions in diseases and medicine!
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Insight in Medicine!"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -34,10 +34,10 @@ Discover our research areas and browse recent publications from our lab.
 %}
 
 {% capture text %}
-Learn more about our main ongoing projects across genomics and precision medicine.  
+Discover our latest publications and preprints in genetics, genomics, and bioinformatics. 
 {%
   include button.html
-  link="projects"
+  link="publications"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -48,8 +48,8 @@ Learn more about our main ongoing projects across genomics and precision medicin
 {%
   include feature.html
   image="images/project.jpg"
-  link="projects"
-  title="Our Projects"
+  link="publications"
+  title="Publications"
   flip=true
   style="bare"
   text=text
