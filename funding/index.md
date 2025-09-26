@@ -2,7 +2,7 @@
 title: Funding
 nav:
   order: 2
-  tooltip: Ongoing projects
+  tooltip: Funding support
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %} Funding support
