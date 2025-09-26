@@ -38,7 +38,7 @@ Discover our latest publications and preprints in genetics, genomics, and bioinf
 {%
   include button.html
   link="publications"
-  text="Browse our projects"
+  text="Explore our publication lists"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
