@@ -5,7 +5,7 @@ nav:
   tooltip: Ongoing projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %} Projects
+# {% include icon.html icon="fa-solid fa-wrench" %} Funding support
 
 Our research focuses on uncovering disease mechanisms to advance healthcare and treatment, leveraging genetic and genomic tools as well as bioinformatics approaches for precision medicine.  
 Below are the main projects and funding sources.
