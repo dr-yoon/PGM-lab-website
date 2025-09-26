@@ -11,16 +11,15 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-screwdriver-wrench" %}Tools
 
-All of our software, tools, datasets, etc. are 100% open-source, and free for anyone around the world to use and modify.
-We strive to make resources that are high quality in every aspect:
-cleanly written, robustly constructed and tested, well-documented, easy-to-use, accessible, customizable, and as effective as possible in real-world use.
+Our group develops a range of **open-source software, datasets, and computational resources** designed to support genomic and bioinformatics research.  
+All tools are freely available to the community and can be used, modified, and extended without restriction.  
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Database
 
-{% include list.html data="tools" component="card" filter="group == 'featured'" %}
+{% include list.html data="tools" component="card" filter="group == 'database'" %}
 
 {% include section.html %}
