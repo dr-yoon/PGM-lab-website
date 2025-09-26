@@ -18,7 +18,7 @@ We use data science to answer important questions in diseases and medicine!
 {%
   include button.html
   link="research"
-  text="Insight in Medicine!"
+  text="See our research area"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -29,7 +29,7 @@ We use data science to answer important questions in diseases and medicine!
   include feature.html
   image="images/research.jpg"
   link="research"
-  title="Our Research"
+  title="Insight in Medicine!"
   text=text
 %}
 
