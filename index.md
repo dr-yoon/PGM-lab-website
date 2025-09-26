@@ -71,7 +71,7 @@ Meet the people behind our research and discover opportunities to join us.
   include feature.html
   image="images/team.png"
   link="team"
-  title="Our Team"
+  title="Team Members"
   text=text
 %}
 
