@@ -23,7 +23,7 @@ Seoul, Republic of Korea
 
 ✉️ **Email:**  
 If you have any questions or inquiries, please feel free to contact us via email at:  
-[YOONJH@yuhs.ac](mailto:YOONJH@yuhs.ac)  
+[YOONJH[at]yuhs[dot]ac](mailto:YOONJH@yuhs.ac)  
 
 {%
   include button.html
