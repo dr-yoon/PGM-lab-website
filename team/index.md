@@ -16,7 +16,7 @@ We are building a collaborative research environment from the ground up, and we�
 We are currently looking for motivated **postdoctoral researchers** with expertise in **molecular biology** and **bioinformatics**.  
 
 👉 [Open Positions] 🕵🏻‍♀️  
-If you’re interested in contributing to our projects, please send your CV ✉️ to **YOONJH@yuhs.ac**.  
+If you’re interested in contributing to our projects, please send your CV ✉️ to **YOONJH[at]yuhs[dot]ac**.  
 
 ---
 
