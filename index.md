@@ -11,7 +11,7 @@ Our mission is to **bridge fundamental discoveries in genetics with clinical app
 
 {% include section.html %}
 
-## 🔬 Highlights
+## ⭐ Highlights ⭐
 
 {% capture text %}
 We use data science to answer important questions in diseases and medicine!
