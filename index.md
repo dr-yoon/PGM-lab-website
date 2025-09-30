@@ -37,7 +37,7 @@ We use data science to answer important questions in diseases and medicine!
 Discover our latest publications and preprints in genetics, genomics, and bioinformatics. 
 {%
   include button.html
-  link="publications"
+  link="publication"
   text="Explore our publication lists"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -48,7 +48,7 @@ Discover our latest publications and preprints in genetics, genomics, and bioinf
 {%
   include feature.html
   image="images/project.jpg"
-  link="publications"
+  link="publication"
   title="Publications"
   flip=true
   style="bare"
