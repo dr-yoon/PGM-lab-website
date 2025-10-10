@@ -22,8 +22,7 @@ Gangnam Severance Hospital
 Seoul, Republic of Korea  
 
 ✉️ **Email:**  
-If you have any questions or inquiries, please feel free to contact us via email at:  
-[YOONJH[at]yuhs[dot]ac](mailto:YOONJH@yuhs.ac)  
+If you have any questions or inquiries, please feel free to contact us via email using the link below.
 
 {%
   include button.html
