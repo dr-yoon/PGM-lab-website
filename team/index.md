@@ -31,8 +31,8 @@ If you’re interested in contributing to our projects, please send your CV ✉�
 ---
 
 <div align="center" style="margin-top:2em;">
-    <strong> 정밀 유전체 의학 연구실, Laboratory for Precision Genome Medicine (PGM Lab)</strong><br>
-    PI: 윤 지 훈, Jihoon G. Yoon, M.D., Ph.D. <br>
+    <strong> 정밀 유전체 의학 연구실 / Laboratory for Precision Genome Medicine (PGM Lab)</strong><br>
+    PI: 윤 지 훈 / Jihoon G. Yoon, M.D., Ph.D. <br>
     연세대학교 의과대학 진단검사의학과 / Department of Laboratory Medicine, Yonsei University College of Medicine
   <img src="/images/yonsei_logo.svg" alt="Yonsei University Logo" width="300" style="margin-top:1em;">
 </div>
