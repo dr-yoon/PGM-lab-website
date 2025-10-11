@@ -5,7 +5,7 @@
 
 Our lab conducts a broad range of **translational research** at the intersection of **human genetics** and **precision medicine**.  
 
-Our mission is to **bridge fundamental discoveries in genetics with clinical applications** that improve diagnosis, treatment, and outcomes for individuals with genetic disorders.  
+Our mission is to **bridge fundamental discoveries in genetics with clinical applications** that improve diagnosis, treatment, and outcomes for individuals with diseases.  
 
 ---
 
