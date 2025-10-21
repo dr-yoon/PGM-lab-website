@@ -23,7 +23,7 @@ assistant:
   description: Research Assistant
 
 manager:
-  icon: fa-solid fa-money
+  icon: fa-solid fa-money-check-dollar
   description: Lab manager
 
 # general
