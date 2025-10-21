@@ -3,7 +3,7 @@
 # team member roles
 
 principal-investigator:
-  icon: fa-solid fa-crown
+  icon: fa-solid fa-brain
   description: Principal Investigator
 
 postdoc:
