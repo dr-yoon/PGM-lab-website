@@ -15,8 +15,6 @@ We are building a collaborative research environment from the ground up, and weâ
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
----
-
 {% include section.html %}
 
 ## ðŸŒŸ Join Us
