@@ -2,7 +2,6 @@
 name: Ayoub El Bakiallah
 image: team/photos/ayoub-baki.jpg
 role: Research Assistant
-affiliation: Yonsei University College of Medicine
 links:
   orcid: 0009-0002-6024-9492
 
