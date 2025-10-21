@@ -1,7 +1,7 @@
 ---
 name: Ayoub El Bakiallah
 image: team/photos/ayoub-baki.jpg
-role: Research Assistant
+role: assistant
 links:
   orcid: 0009-0002-6024-9492
 
