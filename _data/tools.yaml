@@ -8,3 +8,13 @@
     - stop codon
     - stop-loss variant
     - resource
+
+- title: ont-bedmaker
+  group: tools
+  link: https://github.com/dr-yoon/ont-bedmaker
+  description: ont-bedmaker is a Bash tool that automatically generates a BED file for Oxford Nanopore adaptive sampling workflows.
+  tags:
+    - nanopore
+    - adaptive sampling
+    - target region
+    - BED format
