@@ -18,8 +18,6 @@ All tools are freely available to the community and can be used, modified, and e
 
 {% include section.html %}
 
-## Database
-
-{% include list.html data="tools" component="card" filter="group == 'database'" %}
+{% include list.html data="tools" component="card" filter="group == 'tools'" %}
 
 {% include section.html %}
