@@ -1,5 +1,5 @@
 - title: TAILVAR
-  group: database
+  group: tools
   image: images/TAILVAR_overview.jpg
   link: https://github.com/dr-yoon/TAILVAR
   description: TAILVAR (Terminal codon Analysis and Improved prediction of Lengthened VARiants) is a machine-learning classifier designed specifically to predict the functional impact of stop-loss variants that generate C-terminal protein extensions. By integrating transcript-level, protein-level, and variant annotation features, TAILVAR provides accurate assessments that outperform existing tools, offering improved interpretation of elongated protein effects.
@@ -7,10 +7,10 @@
   tags:
     - stop codon
     - stop-loss variant
-    - resource
+    - C-terminal extension
 
 - title: ont-bedmaker
-  group: database
+  group: tools
   link: https://github.com/dr-yoon/ont-bedmaker
   description: ont-bedmaker is a Bash tool that automatically generates a BED file for Oxford Nanopore adaptive sampling workflows.
   tags:
