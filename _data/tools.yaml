@@ -10,7 +10,7 @@
     - resource
 
 - title: ont-bedmaker
-  group: tools
+  group: database
   link: https://github.com/dr-yoon/ont-bedmaker
   description: ont-bedmaker is a Bash tool that automatically generates a BED file for Oxford Nanopore adaptive sampling workflows.
   tags:
