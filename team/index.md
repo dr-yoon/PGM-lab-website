@@ -18,7 +18,7 @@ We are building a collaborative research environment from the ground up, and we�
 {% include section.html %}
 
 ## Join Us
-We are currently looking for motivated **postdoctoral researchers** with expertise in **molecular biology** and **bioinformatics**.  
+We are currently looking for motivated **postdoctoral researchers** with expertise in **molecular biology** or **bioinformatics**.  
 
 👉 If you’re interested in contributing to our projects, please send your CV to **YOONJH[at]yuhs[dot]ac**.  
 
