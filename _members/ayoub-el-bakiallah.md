@@ -7,18 +7,7 @@ links:
 
 ---
 
-# Intern
+# Research Assistant
 
-## EDUCATION
-- **2023.09 – 2025.08**  
-  *MSc*, Department of Molecular Biology and Biochemistry, Yonsei University College of Medicine, Seoul, Korea  
-  *(Advisor: Kyung Hee Chun, PhD)*
+Ayoub is a Research Assistant who joined the PGMLab in 2025. He completed his Master’s degree in Molecular Biology and Biochemistry at Yonsei University College of Medicine, supported by the Global Korea Scholarship, after receiving his undergraduate training in Life Sciences at Mohammed V University in Morocco. His research interests focus on gene regulation and epigenetic mechanisms, with a strong emphasis on wet-lab experimental approaches at the molecular level.
 
-- **2018.09 – 2021.07**  
-  *BSc*, Department of Life Sciences, Faculty of Sciences, Mohammed V University, Rabat, Morocco
-  *(Advisor: Younes Zaid, PhD)*
-
-## AWARDS
-- **Seok-Shin Lee Outstanding Presentation Award**, Yonsei University College of Medicine, Seoul, Korea, 2022
-- **Global Korea Scholarship**,  NIIED Ministry of Education, Seoul, Korea, 2022
-- **Excellence Award**, Mohammed V University, Rabat, Morocco, 2022
