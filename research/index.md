@@ -26,9 +26,8 @@ Bringing nanopore and HiFi long-read sequencing technologies in to the clinic fo
 {% include figure.html image="images/Research_topic2.jpg" caption="Functional Genomics Platform for Precision Medicine" width="600px" %}
 
 - **Novel Gene Discovery and Understanding of Gene Functions in Human Diseases**  
-  Identifying novel disease-associated genes and elucidating their biological functions to advance the understanding of human genetic disorders.  
-  This work is grounded in **functional genomics**, which aims to interpret how genetic variants influence gene expression, protein function, cellular pathways, and ultimately disease phenotypes through integrative genomic and experimental approaches.
+  Identifying novel disease-associated genes and elucidating their biological functions to advance the understanding of human diseases.  
 
-{% include figure.html image="https://static.physoc.org/app/uploads/2023/04/03193204/Neanderthal-dna_Figure-1-1024x735.jpg" caption="The contribution of Neanderthal introgression to modern human traits. Curr Biol. 2022;32(18):R970-R983." width="600px" %}
+{% include figure.html image="images/Research_topic3.jpg" caption="Gene Functions and Disease Mechanisms" width="600px" %}
 
 {% include section.html %}
