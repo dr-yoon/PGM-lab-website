@@ -23,7 +23,7 @@ Bringing nanopore and HiFi long-read sequencing technologies in to the clinic fo
 - ** Variant Interpretation Tools**  
   Developing bioinformatics tools to improve the accuracy of genomic analysis.  
 
-{% include figure.html image="images/TAILVAR_overview.jpg" caption="TAILVAR: Variant interpretation tool for stop-loss variants" width="800px" %}
+{% include figure.html image="images/TAILVAR.jpg" caption="TAILVAR: Interpretive framework for stop-loss variants" width="800px" %}
 
 
 - ** Understanding Modern Human Diseases Through Ancient Genomes**  
