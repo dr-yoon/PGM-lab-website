@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %} Our Team
 
-Welcome to our newly established lab 🚀  
+Welcome to our newly established lab
 We are building a collaborative research environment from the ground up, and we’re excited to grow our team.
 
 {% include section.html %}
@@ -17,11 +17,11 @@ We are building a collaborative research environment from the ground up, and we�
 
 {% include section.html %}
 
-## 🌟 Join Us
+## Join Us
 We are currently looking for motivated **postdoctoral researchers** with expertise in **molecular biology** and **bioinformatics**.  
 
-👉 [Open Positions] 🕵🏻‍♀️  
-If you’re interested in contributing to our projects, please send your CV ✉️ to **YOONJH[at]yuhs[dot]ac**.  
+👉 [Open Positions]
+If you’re interested in contributing to our projects, please send your CV to **YOONJH[at]yuhs[dot]ac**.  
 
 ---
 
