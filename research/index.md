@@ -23,7 +23,7 @@ Bringing nanopore and HiFi long-read sequencing technologies in to the clinic fo
 - **Variant Interpretation Tools**  
  Developing bioinformatics tools to improve the accuracy of genomic variant interpretation by integrating population genetics, in silico prediction, and experimental evidence.
 
-{% include figure.html image="images/Research_topic2" caption="TAILVAR: Interpretive framework for stop-loss variants" width="800px" %}
+{% include figure.html image="images/Research_topic2" caption="Functional Genomics Platform for Precision Medicine" width="800px" %}
 
 - **Novel Gene Discovery and Understanding of Gene Functions in Human Diseases**  
   Identifying novel disease-associated genes and elucidating their biological functions to advance the understanding of human genetic disorders.  
