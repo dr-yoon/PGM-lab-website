@@ -15,19 +15,20 @@ Our research spans the following key areas:
 - **Bioinformatics & Artificial Intelligence**
 
 ## Research Area of Interest
-- **Clinical Application of Long-read Sequencing Technologies**  
-Translating nanopore and HiFi long-read sequencing technologies into clinical practice to improve genomic variant detection and increase diagnostic yield.
 
-{% include figure.html image="images/Research_topic1.jpg" caption="Nanopore and HiFi long-read sequencing technologies" width="600px" %}
+- **Novel Gene Discovery and Understanding of Gene Functions in Human Diseases**  
+  Identifying novel disease-associated genes and elucidating their biological functions to advance the understanding of human diseases.  
+
+{% include figure.html image="images/Research_topic3.jpg" caption="Gene Functions and Disease Mechanisms" width="600px" %}
 
 - **Variant Interpretation Tools**  
  Developing bioinformatics tools to improve the accuracy of genomic variant interpretation by integrating population genetics, in silico prediction, and experimental evidence.
 
 {% include figure.html image="images/Research_topic2.jpg" caption="Functional Genomics Platform for Precision Medicine" width="600px" %}
 
-- **Novel Gene Discovery and Understanding of Gene Functions in Human Diseases**  
-  Identifying novel disease-associated genes and elucidating their biological functions to advance the understanding of human diseases.  
+- **Clinical Application of Long-read Sequencing Technologies**  
+Translating nanopore and HiFi long-read sequencing technologies into clinical practice to improve genomic variant detection and increase diagnostic yield.
 
-{% include figure.html image="images/Research_topic3.jpg" caption="Gene Functions and Disease Mechanisms" width="600px" %}
+{% include figure.html image="images/Research_topic1.jpg" caption="Nanopore and HiFi long-read sequencing technologies" width="600px" %}
 
 {% include section.html %}
