@@ -18,7 +18,7 @@ Our research spans the following key areas:
 - **Clinical Application of Long-read Sequencing Technologies**  
 Bringing nanopore and HiFi long-read sequencing technologies in to the clinic for better identification of genomic variants.
 
-{% include figure.html image="images/long-read-sequencing.png" caption="Nanopore and HiFi long-read sequencing technologies" width="600px" %}
+{% include figure.html image="images/Research_topic1.jpg" caption="Nanopore and HiFi long-read sequencing technologies" width="600px" %}
 
 - **Variant Interpretation Tools**  
  Developing bioinformatics tools to improve the accuracy of genomic variant interpretation by integrating population genetics, in silico prediction, and experimental evidence.
