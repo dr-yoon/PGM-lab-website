@@ -10,7 +10,6 @@ nav:
 Our research focuses on uncovering disease mechanisms to advance healthcare and treatment, leveraging genetic and genomic tools as well as bioinformatics approaches for precision medicine.  
 Below are the main projects and funding sources.
 
----
 
 ## Ongoing Project 1
 
@@ -35,7 +34,6 @@ Through these efforts, we will validate the clinical utility of nanopore sequenc
    width="800px"
 %}
 
----
 
 ## Ongoing Project 2
 
@@ -62,7 +60,6 @@ Our Group 3-2 team focuses on analyzing epigenomic changes in cancer tissues usi
    width="800px"
 %}
 
----
 
 ## Ongoing Project 3
 
