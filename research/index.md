@@ -25,9 +25,9 @@ Bringing nanopore and HiFi long-read sequencing technologies in to the clinic fo
 
 {% include figure.html image="images/TAILVAR.jpg" caption="TAILVAR: Interpretive framework for stop-loss variants" width="800px" %}
 
-
-- **Understanding Modern Human Diseases Through Ancient Genomes**  
-  Leveraging ancient DNA to gain insights into the genetic basis of modern diseases.  
+- **Novel Gene Discovery and Understanding of Gene Functions in Human Diseases**  
+  Identifying novel disease-associated genes and elucidating their biological functions to advance the understanding of human genetic disorders.  
+  This work is grounded in **functional genomics**, which aims to interpret how genetic variants influence gene expression, protein function, cellular pathways, and ultimately disease phenotypes through integrative genomic and experimental approaches.
 
 {% include figure.html image="https://static.physoc.org/app/uploads/2023/04/03193204/Neanderthal-dna_Figure-1-1024x735.jpg" caption="The contribution of Neanderthal introgression to modern human traits. Curr Biol. 2022;32(18):R970-R983." width="800px" %}
 
