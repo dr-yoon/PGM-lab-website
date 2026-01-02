@@ -15,8 +15,7 @@ Early access to our most recent research, shared prior to peer-reviewed publicat
 
 - **Yoon *et al.* (2025)**  
   *A predictive framework for stop-loss variants with C-terminal extensions*.  
-  Preprint available at **bioRxiv**.  
-  [doi:10.1101/2025.09.01.673407](https://doi.org/10.1101/2025.09.01.673407)
+  Preprint available at **bioRxiv**. [doi:10.1101/2025.09.01.673407](https://doi.org/10.1101/2025.09.01.673407)
 
 ---
 
@@ -24,7 +23,7 @@ Early access to our most recent research, shared prior to peer-reviewed publicat
 
 Here we highlight a selection of representative publications from the PGM Lab, showcasing our contributions as main authors in genetics, genomics, and bioinformatics research.  
 
-For the **complete list of publications**, please see our [Google Scholar profile](https://scholar.google.com/citations?user=KIKGLvMAAAAJ).
+For the **entire list of publications**, please see our [Google Scholar profile](https://scholar.google.com/citations?user=KIKGLvMAAAAJ).
 
 {% include search-box.html %}
 
