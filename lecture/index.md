@@ -54,7 +54,7 @@ nav:
   **[Symposium Ⅳ] AI and Bioinformatics**  
   *Diagnostic Value of Tandem Repeat Analysis Using Short-Read Sequencing Data*
 
-## Before 2024
+## ~ 2024
 - *대한의학유전학회 (KSMGG)*  
   **ECMGG 기초과정 강의, 2강: Human Genome and Chromosome Basis of Heredity**  
   *(2기–5기): 2020 — 2023*
