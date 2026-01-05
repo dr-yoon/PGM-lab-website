@@ -17,7 +17,6 @@ nav:
 
 - **2025-12-11** — *경북대학교 도서관 세미나 (연자 초청)*  
   **대학원생을 위한 논문 투고 가이드: 출판과정의 이해와 실전 팁**  
-  *A Practical Guide to Manuscript Submission for Graduate Students*
 
 - **2025-11-20** — *강남세브란스병원 정밀의료센터 세미나*  
   **Bringing Nanopore Sequencing into the Clinic for Real-time Precision Medicine**
