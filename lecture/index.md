@@ -25,6 +25,7 @@ nav:
 - **2025-09-03** — *한국유전체학회 (KOGO), The 34th International KOGO Annual Conference*  
   **Young Scientist Session**  
   *A Predictive Framework for Stop-Loss Variants with C-terminal Extensions*  
+
   🏆 **Best Presentation Award**
 
 - **2025-09-03** — *대한의학유전학회 (KSMGG) ECMGG 7기 기초과정 강의*  
@@ -33,6 +34,8 @@ nav:
 - **2025-06-12** — *대한진단유전학회 (KSGD)*  
   **[Symposium 5] Clinical Applications of Advanced Molecular Genetic Technologies**  
   *Beyond the Short Read: Bringing Long-Read Sequencing to the Clinic*
+
+  🏆 **최우수 논문상** De novo missense variants in HDAC3 leading to epigenetic machinery dysfunction are associated with a variable neurodevelopmental disorder
 
 - **2025-03-05** — *대한의학유전학회 (KSMGG) ECMGG 6기 응용과정 강의*  
   **유전체 분석기술의 이해 (I): 염기서열분석검사**
