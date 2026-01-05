@@ -12,7 +12,7 @@ Our mission is to **bridge fundamental discoveries in genetics with clinical app
 ## Highlights
 
 {% capture text %}
-We use data science to answer important questions in diseases and medicine!
+We use both wet-lab and dry-lab approaches to answer important questions in diseases and medicine!
 {%
   include button.html
   link="research"
