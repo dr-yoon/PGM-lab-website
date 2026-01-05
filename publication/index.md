@@ -13,9 +13,12 @@ nav:
 
 Early access to our most recent research, shared prior to peer-reviewed publication.
 
-- **Yoon *et al.* (2025)**  
+- **Yoon *et al.* Nucleic Acids Research (2026), ahead of print**  
   *A predictive framework for stop-loss variants with C-terminal extensions*.  
+   
   Preprint available at **bioRxiv**. [doi:10.1101/2025.09.01.673407](https://doi.org/10.1101/2025.09.01.673407)
+  
+  
 
 ---
 
