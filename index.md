@@ -75,17 +75,11 @@ Meet the people behind our research and discover opportunities to join us.
 
 ---
 
-<div style="text-align:center;">
-  <p style="text-align: center !important;">
-    <strong style="display: block; text-align: center;">
-      정밀 유전체 의학 연구실 / Laboratory for Precision Genome Medicine (PGM Lab)
-    </strong>
-    <span style="display: block; text-align: center;">
-      PI: 윤 지 훈 / Jihoon G. Yoon, M.D., Ph.D.
-    </span>
-    <span style="display: block; text-align: center;">
-      연세대학교 의과대학 진단검사의학과 / Department of Laboratory Medicine, Yonsei University College of Medicine
-    </span>
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <p>
+    <strong>정밀 유전체 의학 연구실 / Laboratory for Precision Genome Medicine (PGM Lab)</strong><br>
+    PI: 윤 지 훈 / Jihoon G. Yoon, M.D., Ph.D.<br>
+    연세대학교 의과대학 진단검사의학과 / Department of Laboratory Medicine, Yonsei University College of Medicine
   </p>
   <img src="/images/yonsei_logo.svg" alt="Yonsei University Logo" width="300" style="margin-top:1em;">
 </div>
