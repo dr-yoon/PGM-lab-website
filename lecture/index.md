@@ -59,5 +59,5 @@ nav:
 ## Before 2024
 - *대한의학유전학회 (KSMGG)*  
   **ECMGG 기초과정 강의, 2강: Human Genome and Chromosome Basis of Heredity**  
-  *(2기–5기)*
+  *(2기–5기): 2020 — 2023*
 
