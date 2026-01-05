@@ -5,7 +5,7 @@ nav:
   tooltip: Lectures and presentations
 ---
 
-# {% include icon.html icon="fa-solid fa-book" %} Lecture
+# {% include icon.html icon="fa-solid fa-person-chalkboard" %} Lecture
 
 {% include section.html %}
 
