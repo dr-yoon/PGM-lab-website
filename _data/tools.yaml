@@ -1,6 +1,6 @@
 - title: TAILVAR
   group: tools
-  image: images/TAILVAR_overview.jpg
+  image: /images/TAILVAR.jpg
   link: https://github.com/dr-yoon/TAILVAR
   description: TAILVAR (Terminal extension Analysis for Improved prediction of Lengthened VARiants) is a machine-learning classifier designed specifically to predict the functional impact of stop-loss variants that generate C-terminal protein extensions. By integrating transcript-level, protein-level, and variant annotation features, TAILVAR provides accurate assessments that outperform existing tools, offering improved interpretation of elongated protein effects.
   repo: https://zenodo.org/records/16561299
