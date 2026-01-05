@@ -2,7 +2,7 @@
 title: Blog
 nav:
   order: 5
-  tooltip: Musings and miscellany
+  tooltip: News and updates
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
