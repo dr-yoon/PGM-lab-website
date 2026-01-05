@@ -1,13 +1,9 @@
 ---
-title: Projects
-nav:
-  order: 2
-  tooltip: Ongoing projects
+title: Ongoing projects
 ---
 
 # {% include icon.html icon="fa-solid fa-money-check-dollar" %} Projects and Funding
 
-Our research focuses on uncovering disease mechanisms to advance healthcare and treatment, leveraging genetic and genomic tools as well as bioinformatics approaches for precision medicine.  
 Below are the main projects and funding sources.
 
 
