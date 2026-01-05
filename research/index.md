@@ -35,6 +35,6 @@ Translating nanopore and HiFi long-read sequencing technologies into clinical pr
 
 Our research focuses on uncovering disease mechanisms to advance healthcare and treatment, leveraging genetic and genomic tools as well as bioinformatics approaches for precision medicine.
 
-{% include button.html icon="fa-solid fa-handshake-angle" text="Ongoing projects" link="projects" style="button" %}
+{% include button.html icon="fa-regular fa-square-check" text="Ongoing projects" link="projects" style="button" %}
 
 {% include section.html %}
