@@ -37,8 +37,6 @@ nav:
 - **2025-03-05** — *대한의학유전학회 (KSMGG) ECMGG 6기 응용과정 강의*  
   **유전체 분석기술의 이해 (I): 염기서열분석검사**
 
----
-
 ## 2024
 - **2024-12-05** — *KSMGG & EAUHGS Seoul 2024*  
   **Symposium 7, Oral Presentation**  
@@ -53,8 +51,6 @@ nav:
 - **2024-06-13** — *대한진단유전학회 (KSGD)*  
   **[Symposium Ⅳ] AI and Bioinformatics**  
   *Diagnostic Value of Tandem Repeat Analysis Using Short-Read Sequencing Data*
-
----
 
 ## Before 2024
 - *대한의학유전학회 (KSMGG)*  
