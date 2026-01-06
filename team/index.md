@@ -31,7 +31,7 @@ We are currently looking for motivated **postdoctoral researchers** with experti
   </strong>
   <br>
   <br>
-  <div>
+  <div style="font-size:0.95em;">
     PI | Principal Investigator<br>
     윤 지 훈<br>
     Jihoon G. Yoon, M.D., Ph.D.
