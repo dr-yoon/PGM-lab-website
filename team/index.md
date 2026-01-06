@@ -25,7 +25,7 @@ We are currently looking for motivated **postdoctoral researchers** with experti
 ---
 
 <div align="center" style="margin-top:2em;">
-  <strong style="font-size:1.1em;">
+  <strong style="font-size:1.0em;">
     정밀 유전체 의학 연구실<br>
     Laboratory for Precision Genome Medicine (PGM Lab)
   </strong>
