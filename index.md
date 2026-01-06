@@ -82,7 +82,7 @@ Meet the people behind our research and discover opportunities to join us.
   </strong>
   <br>
   <br>
-  <div>
+  <div style="font-size:0.95em;">
     PI | Principal Investigator<br>
     윤 지 훈<br>
     Jihoon G. Yoon, M.D., Ph.D.
