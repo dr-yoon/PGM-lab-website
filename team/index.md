@@ -25,9 +25,22 @@ We are currently looking for motivated **postdoctoral researchers** with experti
 ---
 
 <div align="center" style="margin-top:2em;">
-    <strong> 정밀 유전체 의학 연구실 | Laboratory for Precision Genome Medicine (PGM Lab)</strong><br>
-    PI: 윤 지 훈 | Jihoon G. Yoon, M.D., Ph.D. <br>
-    연세대학교 의과대학 진단검사의학과 | Department of Laboratory Medicine, Yonsei University College of Medicine
+  <strong style="font-size:1.25em;">
+    정밀 유전체 의학 연구실<br>
+    Laboratory for Precision Genome Medicine (PGM Lab)
+  </strong>
+  <br>
+  <br>
+  <div>
+    PI | Principal Investigator<br>
+    윤 지 훈<br>
+    Jihoon G. Yoon, M.D., Ph.D.
+  </div>
+  <br>
+  <div style="font-size:0.95em;">
+    연세대학교 의과대학 진단검사의학과<br>
+    Department of Laboratory Medicine, Yonsei University College of Medicine<br>
+  </div>
+  <br>
   <img src="/images/yonsei_logo.svg" alt="Yonsei University Logo" width="300" style="margin-top:1em;">
 </div>
-
