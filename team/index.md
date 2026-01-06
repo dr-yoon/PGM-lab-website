@@ -1,11 +1,11 @@
 ---
 title: Team
 nav:
-  order: 4
-  tooltip: About our team
+  order: 3
+  tooltip: About our lab members
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %} Our Team
+# {% include icon.html icon="fa-solid fa-users" %} Our members
 
 Welcome to our newly established lab
 We are building a collaborative research environment from the ground up, and we’re excited to grow our team.
