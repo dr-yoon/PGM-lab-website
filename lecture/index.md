@@ -34,8 +34,13 @@ nav:
   **[Symposium 5] Clinical Applications of Advanced Molecular Genetic Technologies**  
   *Beyond the Short Read: Bringing Long-Read Sequencing to the Clinic*
 
-  🏆 **최우수 논문상** De novo missense variants in HDAC3 leading to epigenetic machinery dysfunction are associated with a variable neurodevelopmental disorder
+  🏆 **최우수 논문상**
+  De novo missense variants in HDAC3 leading to epigenetic machinery dysfunction are associated with a variable neurodevelopmental disorder
 
+- **2025-04-24** — *대한의학유전학회 (KSMGG) 제69차 춘계학술대회*  
+  **Session 1: Best Lectures from ECMGG (I)**
+  *Human Genome and Chromosome Basis of Heredity*
+  
 - **2025-03-05** — *대한의학유전학회 (KSMGG) ECMGG 6기 응용과정 강의*  
   **유전체 분석기술의 이해 (I): 염기서열분석검사**
 
