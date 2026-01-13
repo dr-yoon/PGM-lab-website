@@ -15,13 +15,13 @@ nav:
 - **2025-12-12** — *임상미생물학회 NGS 워크샵 강의*  
   **Introduction to NGS Data Analysis in Clinical Microbiology**
 
-- **2025-12-11** — *경북대학교 도서관 세미나 (연자 초청)*  
+- **2025-12-11** — *경북대학교 도서관 세미나*  
   **대학원생을 위한 논문 투고 가이드: 출판과정의 이해와 실전 팁**  
 
 - **2025-11-20** — *강남세브란스병원 정밀의료센터 세미나*  
   **Bringing Nanopore Sequencing into the Clinic for Real-time Precision Medicine**
 
-- **2025-09-03** — *한국유전체학회 (KOGO), The 34th International KOGO Annual Conference*  
+- **2025-09-04** — *한국유전체학회 (KOGO), The 34th International KOGO Annual Conference*  
   **Young Scientist Session**  
   *A Predictive Framework for Stop-Loss Variants with C-terminal Extensions*  
 
