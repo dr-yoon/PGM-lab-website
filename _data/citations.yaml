@@ -132,8 +132,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1212/NXG.0000000000200147
-  title: "Prevalence and Characterization of\n            <i>NOTCH2NLC</i>\n     \
-    \       GGC Repeat Expansions in Koreans"
+  title: "Prevalence and Characterization of\n                    <i>NOTCH2NLC</i>\n\
+    \                    GGC Repeat Expansions in Koreans"
   authors:
   - Seungbok Lee
   - Jihoon G. Yoon
