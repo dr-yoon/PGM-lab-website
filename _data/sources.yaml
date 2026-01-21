@@ -1,3 +1,10 @@
+- id: doi:10.1093/nar/gkag031
+  image: https://academic.oup.com/nar/issue/54/2
+  description: "**한빛사 논문**"
+  buttons:
+  - type: source
+    link:
+
 - id: doi:10.1186/s13073-025-01513-w
   image: https://media.springernature.com/full/springer-static/cover-hires/journal/13073
   description: "**한빛사 논문**"
