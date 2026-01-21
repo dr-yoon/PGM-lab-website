@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pgmlab.org/sitemap.xml
