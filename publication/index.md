@@ -9,18 +9,6 @@ nav:
 
 {% include section.html %}
 
-## 📝 Preprints
-
-Early access to our most recent research prior to peer-reviewed publication.
-
-- **Yoon *et al.* Nucleic Acids Res (2026), ahead of print**  
-  *A predictive framework for stop-loss variants with C-terminal extensions*.  
-   
-  Preprint is available at **bioRxiv**. [doi:10.1101/2025.09.01.673407](https://doi.org/10.1101/2025.09.01.673407)
-  
-  
-
----
 
 ## 📚 Selected Publications
 
