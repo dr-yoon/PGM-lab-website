@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/nar/gkag031
+  title: A predictive framework for stop-loss variants with C-terminal extensions
+  authors:
+  - Jihoon G Yoon
+  - Sojin Lee
+  - Yoonjung Kim
+  - Heon Yung Gee
+  - Min Goo Lee
+  - Kyung-A Lee
+  publisher: Nucleic Acids Research
+  date: '2026-01-14'
+  link: https://doi.org/hbkpqz
+  image: https://academic.oup.com/nar/issue/54/2
+  description: "**\uD55C\uBE5B\uC0AC \uB17C\uBB38**"
+  buttons:
+  - type: source
+    link: null
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/s13073-025-01513-w
   title: Contribution of rare coding variants to microcephaly in individuals with
     neurodevelopmental disorders
