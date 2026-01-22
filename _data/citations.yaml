@@ -16,7 +16,7 @@
   description: "**\uD55C\uBE5B\uC0AC \uB17C\uBB38**"
   buttons:
   - type: link
-    text: "\uC778\uD130\uBDF0"
+    label: "\uC778\uD130\uBDF0"
     link: https://www.ibric.org/bric/hanbitsa/han-interview.do?mode=view&id=100172&authorId=34183#!/list
   plugin: sources.py
   file: sources.yaml
@@ -56,7 +56,9 @@
   description: "**\uD55C\uBE5B\uC0AC \uB17C\uBB38**"
   buttons:
   - type: link
-    text: "\uAE30\uC0AC"
+    link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=98171&authorId=34183
+  - type: link
+    label: "\uAE30\uC0AC"
     link: http://www.bosa.co.kr/news/articleView.html?idxno=2256345
   plugin: sources.py
   file: sources.yaml
@@ -149,7 +151,7 @@
   image: https://www.cell.com/cms/asset/4fe2b929-3462-498a-beb3-86658b9266b2/cov200h.gif
   buttons:
   - type: link
-    text: "\uAE30\uC0AC"
+    label: "\uAE30\uC0AC"
     link: https://www.docdocdoc.co.kr/news/articleView.html?idxno=3020192
   plugin: sources.py
   file: sources.yaml
@@ -229,7 +231,7 @@
   description: "**\uD55C\uBE5B\uC0AC \uB17C\uBB38**"
   buttons:
   - type: link
-    text: "\uC778\uD130\uBDF0"
+    label: "\uC778\uD130\uBDF0"
     link: https://www.ibric.org/bric/hanbitsa/han-interview.do?mode=view&id=92659&authorId=34183
   plugin: sources.py
   file: sources.yaml
@@ -320,7 +322,10 @@
   description: "**\uD55C\uBE5B\uC0AC \uB17C\uBB38**"
   buttons:
   - type: link
-    text: "\uAE30\uC0AC"
+    label: "\uC778\uD130\uBDF0"
+    link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=69394&authorId=34183
+  - type: link
+    label: "\uAE30\uC0AC"
     link: https://www.dailymedi.com/news/news_view.php?wr_id=868921
   plugin: sources.py
   file: sources.yaml
