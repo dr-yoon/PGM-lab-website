@@ -1,6 +1,9 @@
 - id: doi:10.1093/nar/gkag031
   image: images/NAR_2601_cover.jpeg
   description: "**한빛사 논문**"
+    buttons:
+  - type: source
+    link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=100172&authorId=34183
 
 - id: doi:10.1186/s13073-025-01513-w
   image: https://media.springernature.com/full/springer-static/cover-hires/journal/13073
