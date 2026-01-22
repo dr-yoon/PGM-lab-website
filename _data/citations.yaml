@@ -15,7 +15,7 @@
   image: images/NAR_2601_cover.jpeg
   description: "**\uD55C\uBE5B\uC0AC \uB17C\uBB38**"
   buttons:
-  - type: source
+  - type: link
     link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=100172&authorId=34183
   plugin: sources.py
   file: sources.yaml
@@ -54,7 +54,7 @@
   image: https://media.springernature.com/full/springer-static/cover-hires/journal/13073
   description: "**\uD55C\uBE5B\uC0AC \uB17C\uBB38**"
   buttons:
-  - type: source
+  - type: link
     link: https://www.ibric.org/bric/hanbitsa/treatise.do?mode=treatise-view&id=98171&authorId=34183
   plugin: sources.py
   file: sources.yaml
@@ -146,7 +146,7 @@
   link: https://doi.org/g9zr3k
   image: https://www.cell.com/cms/asset/4fe2b929-3462-498a-beb3-86658b9266b2/cov200h.gif
   buttons:
-  - type: source
+  - type: link
     link: https://www.docdocdoc.co.kr/news/articleView.html?idxno=3020192
   plugin: sources.py
   file: sources.yaml
@@ -225,7 +225,7 @@
   image: https://media.springernature.com/full/nature-cms/uploads/product/emm/header-d8217f38d70a68088a50cb0998a1912d.svg
   description: "**\uD55C\uBE5B\uC0AC \uB17C\uBB38**"
   buttons:
-  - type: source
+  - type: link
     link: https://www.ibric.org/bric/hanbitsa/han-interview.do?mode=view&id=92659&authorId=34183
   plugin: sources.py
   file: sources.yaml
@@ -315,7 +315,7 @@
   image: https://images.journals.lww.com/hep/LargeRollover.01515467-202110000-00000.CV.jpeg
   description: "**\uD55C\uBE5B\uC0AC \uB17C\uBB38**"
   buttons:
-  - type: source
+  - type: link
     link: https://www.dailymedi.com/news/news_view.php?wr_id=868921
   plugin: sources.py
   file: sources.yaml
