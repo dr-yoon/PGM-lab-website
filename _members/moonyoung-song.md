@@ -2,7 +2,7 @@
 name: Moon Young Song
 aliases:
   - MY Song
-image: team/photos/moonyoung-song.jpg
+image: team/photos/moonyoung-song.JPG
 role: postdoc
 links:
   orcid: 0000-0001-9311-5146
