@@ -25,7 +25,11 @@ links:
 
 ## PROFESSIONAL EXPERIENCE
 
-- **2024.03 – Present**  
+- **2026.03 – Present**  
+  *Clinical Assistant Professor*, Department of Laboratory Medicine  
+  Yonsei University College of Medicine, Gangnam Severance Hospital, Seoul, Korea
+
+- **2024.03 – 2026.02**  
   *Clinical Professor*, Department of Laboratory Medicine  
   Yonsei University College of Medicine, Gangnam Severance Hospital, Seoul, Korea  
 
