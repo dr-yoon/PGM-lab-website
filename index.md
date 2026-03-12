@@ -55,6 +55,7 @@ Integrating experimental and computational methods to uncover the genetic mechan
   image="images/research.jpg"
   link="research"
   title="Our Research Approach"
+  alt="Genomics and precision medicine research at PGM Lab"
   text=text
 %}
 {% capture text %}
@@ -73,6 +74,7 @@ Discover our latest publications and preprints in genetics, genomics, and bioinf
   image="images/project.jpg"
   link="publication"
   title="Publications"
+  alt="Scientific publications in genetics and bioinformatics from PGM Lab"
   flip=true
   style="bare"
   text=text
@@ -93,6 +95,7 @@ Meet the researchers behind our work — and explore opportunities to join the l
   image="images/team.jpg"
   link="team"
   title="Team Members"
+  alt="Research team members of PGM Lab"
   text=text
 %}
 
