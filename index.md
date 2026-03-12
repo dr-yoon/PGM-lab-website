@@ -18,9 +18,8 @@
 {% include section.html %}
 
 ## Highlights
-
 {% capture text %}
-We use both wet-lab and dry-lab approaches to answer important questions in diseases and medicine!
+Integrating experimental and computational methods to uncover the genetic mechanisms of human disease.
 {%
   include button.html
   link="research"
@@ -30,15 +29,13 @@ We use both wet-lab and dry-lab approaches to answer important questions in dise
   style="bare"
 %}
 {% endcapture %}
-
 {%
   include feature.html
   image="images/research.jpg"
   link="research"
-  title="Insight in Medicine!"
+  title="Our Research Approach"
   text=text
 %}
-
 {% capture text %}
 Discover our latest publications and preprints in genetics, genomics, and bioinformatics. 
 {%
@@ -50,7 +47,6 @@ Discover our latest publications and preprints in genetics, genomics, and bioinf
   style="bare"
 %}
 {% endcapture %}
-
 {%
   include feature.html
   image="images/project.jpg"
@@ -60,9 +56,8 @@ Discover our latest publications and preprints in genetics, genomics, and bioinf
   style="bare"
   text=text
 %}
-
 {% capture text %}
-Meet the people behind our research and discover opportunities to join us.  
+Meet the researchers behind our work — and explore opportunities to join the lab.
 {%
   include button.html
   link="team"
@@ -72,7 +67,6 @@ Meet the people behind our research and discover opportunities to join us.
   style="bare"
 %}
 {% endcapture %}
-
 {%
   include feature.html
   image="images/team.jpg"
