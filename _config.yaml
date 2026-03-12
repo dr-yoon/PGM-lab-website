@@ -1,7 +1,10 @@
 # site properties and page defaults
-title: Laboratory for Precision Genome Medicine (PGM)
-subtitle: 
-description: Where Genomic Discovery Meets Precision Medicine
+title: PGM Lab
+subtitle: Laboratory for Precision Genome Medicine
+description: The Laboratory for Precision Genome Medicine (PGM Lab) at Yonsei University 
+  College of Medicine conducts translational research at the intersection of 
+  human genetics and precision medicine, integrating wet-lab and computational 
+  approaches to improve disease diagnosis and treatment.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
