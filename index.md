@@ -17,6 +17,27 @@
 
 {% include section.html %}
 
+## Recent News
+
+{% for post in site.posts limit:3 %}
+<div style="border-left: 4px solid #c8102e; padding-left: 1.2em; margin-bottom: 1.2em;">
+  <strong style="color: #003876;">{{ post.date | date: "%Y-%m" }}</strong><br>
+  {{ post.excerpt | strip_html | truncatewords: 30 }}
+  <a href="{{ post.url }}">Read more →</a>
+</div>
+{% endfor %}
+
+{%
+  include button.html
+  link="blog"
+  text="See all news & updates"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% include section.html %}
+
 ## Highlights
 {% capture text %}
 Integrating experimental and computational methods to uncover the genetic mechanisms of human disease.
