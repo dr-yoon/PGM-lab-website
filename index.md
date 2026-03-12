@@ -1,11 +1,19 @@
 ---
 ---
+<h1 style="color: #003876; font-size: 2.2em; line-height: 1.3;">
+  Decoding the Genome.<br>Transforming Patient Care.
+</h1>
 
-# Welcome to the Laboratory for Precision Genome Medicine (PGM)
+<p>
+  <span style="color: #c8102e; font-weight: 700;">Laboratory for Precision Genome Medicine (PGM)</span>
+  — we bridge fundamental discoveries in human genetics with clinical applications
+  that improve diagnosis, treatment, and outcomes for individuals with disease.
+</p>
 
-Our lab conducts a broad range of **translational research** at the intersection of **human genetics** and **precision medicine**.  
-
-Our mission is to **bridge fundamental discoveries in genetics with clinical applications** that improve diagnosis, treatment, and outcomes for individuals with diseases.  
+<p>
+  We integrate <strong>experimental (wet-lab)</strong> and <strong>computational (dry-lab)</strong>
+  approaches to uncover the genetic mechanisms underlying human disease.
+</p>
 
 {% include section.html %}
 
