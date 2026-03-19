@@ -1,6 +1,6 @@
 ---
 name: Jongung Song
-image: team/photos/ㅓongung-song.jpg
+image: team/photos/jongung-song.jpg
 role: assistant
 
 ---
