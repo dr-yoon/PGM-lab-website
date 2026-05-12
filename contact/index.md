@@ -50,7 +50,7 @@ If you have any questions or inquiries, please feel free to contact us via email
 {%
   include figure.html
   image="images/map.png"
-  caption="How to find the lab"
+  caption="HOW TO FIND THE LAB"
 %}
 
 {% endcapture %}
