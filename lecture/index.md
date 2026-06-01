@@ -11,11 +11,15 @@ nav:
 
 # Academic Activities & Invited Talks
 ## 2026
+- **2026-05-22** — *대한진단유전학회 (KSGD) 제21차 학술대회*  
+  **[Symposium 6] AI & Bioinformatics for Genomic Interpretation**  
+  *When Stop Codons Are Disrupted: Decoding C-terminal Extension Biology and AI-driven Functional Impact Prediction*
+  
 - **2026-04-23** — *대한의학유전학회 (KSMGG) 제71차 춘계학술대회*  
   **Session 2-B: Clinical Translation of Genomic Data: Bench-to-Bedside in Rare Disease Research**
   *From Sequence Extension to Disease: Integrative Functional Prediction of Stop-loss Variants*
   
-- **2025-03-04** — *대한의학유전학회 (KSMGG) ECMGG 7기 응용과정 강의*  
+- **2026-03-04** — *대한의학유전학회 (KSMGG) ECMGG 7기 응용과정 강의*  
   **유전체 분석기술의 이해 (I): 염기서열분석검사**
   
 ## 2025
