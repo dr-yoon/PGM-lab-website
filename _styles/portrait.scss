@@ -54,11 +54,18 @@
 
 .portrait-image {
   width: 100%;
-  margin-bottom: 20px;
+  margin-bottom: 16px;
   aspect-ratio: 1 / 1;
+  border: 3px solid var(--background);
   border-radius: 999px;
   object-fit: cover;
-  box-shadow: var(--shadow);
+  box-shadow: 0 4px 16px rgba(0, 40, 80, 0.16);
+  transition: transform var(--transition), box-shadow var(--transition);
+}
+
+.portrait:not([data-style="tiny"]):hover .portrait-image {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(0, 40, 80, 0.2), 0 0 0 3px var(--primary);
 }
 
 .portrait[data-style="tiny"] .portrait-image {
@@ -68,7 +75,18 @@
 
 .portrait-name {
   font-family: var(--heading);
+  font-weight: var(--heavy);
+  color: var(--primary);
+  letter-spacing: 0.2px;
+}
+
+.portrait-description {
+  margin-top: 2px;
+  color: var(--gray);
+  font-size: 0.78rem;
   font-weight: var(--semi-bold);
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 .portrait[data-style="tiny"] {
