@@ -1,43 +1,48 @@
 [data-dark=false] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
-  --text: #000000;
-  --background: #ffffff;
-  --background-alt: #fafafa;
-  --light-gray: #e0e0e0;
-  --gray: #808080;
+  --primary: #003876;
+  --primary-deep: #00264f;
+  --secondary: #5b7fb4;
+  --accent: #b08d3f;
+  --text: #1a1a1a;
+  --background: #fcfcfc;
+  --background-alt: #f3f5f8;
+  --light-gray: #e2e6eb;
+  --gray: #8a8f96;
   --dark-gray: #404040;
-  --overlay: #00000020;
+  --overlay: #00284f18;
 }
 
 [data-dark=true] {
-  --primary: #0795d9;
-  --secondary: #075985;
-  --text: #ffffff;
-  --background: #181818;
-  --background-alt: #1c1c1c;
-  --light-gray: #404040;
-  --gray: #808080;
-  --dark-gray: #b0b0b0;
-  --overlay: #ffffff10;
+  --primary: #7fb0e8;
+  --primary-deep: #a9cdf3;
+  --secondary: #4d74ab;
+  --accent: #d4b86a;
+  --text: #e8eaed;
+  --background: #161a1f;
+  --background-alt: #1b2128;
+  --light-gray: #333a43;
+  --gray: #8a8f96;
+  --dark-gray: #b8bdc4;
+  --overlay: #ffffff12;
 }
 
 :root {
   --title: "Barlow", sans-serif;
   --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --body: "Inter", system-ui, sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
   --xxl: 1.6rem;
-  --thin: 200;
+  --thin: 300;
   --regular: 400;
   --semi-bold: 500;
   --bold: 600;
+  --heavy: 700;
   --spacing: 2;
-  --compact: 1.5;
-  --rounded: 3px;
-  --shadow: 0 0 10px 0 var(--overlay);
+  --compact: 1.6;
+  --rounded: 7px;
+  --shadow: 0 2px 14px 0 var(--overlay);
   --transition: 0.2s ease;
 }
 

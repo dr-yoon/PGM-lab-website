@@ -6,24 +6,37 @@ h5,
 h6 {
   margin: 40px 0 20px 0;
   font-family: var(--heading);
-  font-weight: var(--semi-bold);
+  font-weight: var(--bold);
+  color: var(--primary);
   text-align: left;
-  letter-spacing: 1px;
+  letter-spacing: 0.3px;
 }
 
 h1 {
   margin: 40px 0;
-  font-size: 1.6rem;
-  font-weight: var(--regular);
+  font-size: 1.7rem;
+  font-weight: var(--semi-bold);
   text-transform: uppercase;
+  letter-spacing: 1px;
   text-align: center;
 }
 
 h2 {
   font-size: 1.6rem;
-  padding-bottom: 5px;
+  padding-bottom: 8px;
   border-bottom: solid 1px var(--light-gray);
-  font-weight: var(--regular);
+  font-weight: var(--semi-bold);
+}
+
+h2:before {
+  content: "";
+  display: inline-block;
+  width: 4px;
+  height: 0.95em;
+  margin-right: 0.5em;
+  border-radius: 2px;
+  background: var(--accent);
+  vertical-align: -0.1em;
 }
 
 h3 {
