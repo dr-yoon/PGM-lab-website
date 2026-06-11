@@ -28,12 +28,15 @@ button {
   text-decoration: none;
   vertical-align: middle;
   appearance: none;
-  transition: background var(--transition), color var(--transition);
+  transition: background var(--transition), color var(--transition),
+    transform var(--transition), box-shadow var(--transition);
 }
 
 .button:hover {
-  background: var(--text);
-  color: var(--background);
+  background: var(--primary-deep);
+  color: #ffffff;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(0, 40, 80, 0.22);
 }
 
 .button[data-style="bare"] {
@@ -42,7 +45,9 @@ button {
   color: var(--primary);
 
   &:hover {
-    color: var(--text);
+    color: var(--primary-deep);
+    transform: none;
+    box-shadow: none;
   }
 }
 

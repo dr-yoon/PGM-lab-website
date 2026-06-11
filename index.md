@@ -1,11 +1,11 @@
 ---
 ---
-<h1 style="color: #003876; font-size: 2.2em; line-height: 1.3;">
+<h1 style="color: var(--primary); font-size: 2.2em; line-height: 1.3;">
   Decoding the Genome.<br>Transforming Patient Care.
 </h1>
 
 <p>
-  <span style="color: #003876; font-weight: 700;">Laboratory for Precision Genome Medicine (PGM)</span>
+  <span style="color: var(--primary); font-weight: 700;">Laboratory for Precision Genome Medicine (PGM)</span>
   — we bridge fundamental discoveries in human genetics with clinical applications
   that improve diagnosis, treatment, and outcomes for individuals with disease.
 </p>
@@ -20,8 +20,8 @@
 ## Recent News
 
 {% for post in site.posts limit:3 %}
-<div style="border-left: 4px solid #c8102e; padding-left: 1.2em; margin-bottom: 1.2em;">
-  <strong style="color: #003876;">{{ post.date | date: "%Y-%m" }}</strong><br>
+<div style="border-left: 4px solid var(--accent); padding-left: 1.2em; margin-bottom: 1.2em;">
+  <strong style="color: var(--primary);">{{ post.date | date: "%Y-%m" }}</strong><br>
   <a href="{{ post.url }}">{{ post.title }}</a>
 </div>
 {% endfor %}
