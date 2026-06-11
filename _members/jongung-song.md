@@ -1,7 +1,7 @@
 ---
 name: Jongung Song
 image: team/photos/jongung-song.jpg
-role: assistant
+role: associate
 
 ---
 
