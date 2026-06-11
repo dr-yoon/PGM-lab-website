@@ -18,6 +18,14 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+intern:
+  icon: fa-solid fa-binoculars
+  description: Student Internship
+  
+associate:
+  icon: fa-solid fa-microscope
+  description: Research Associate
+  
 assistant:
   icon: fa-solid fa-microscope
   description: Research Assistant
