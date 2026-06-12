@@ -1,0 +1,182 @@
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.1fr;
+  gap: 30px;
+  align-items: stretch;
+  margin: 24px 0;
+}
+
+@media (max-width: 780px) {
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.contact-card {
+  padding: 26px;
+  border: 1px solid var(--light-gray);
+  border-radius: 14px;
+  background: var(--background);
+  box-shadow: 0 1px 3px rgba(0, 40, 80, 0.06);
+}
+
+.contact-row {
+  display: flex;
+  gap: 14px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--light-gray);
+  text-align: left;
+}
+
+.contact-row:last-of-type {
+  border-bottom: 0;
+}
+
+.contact-ic {
+  flex-shrink: 0;
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 11px;
+  background: var(--background-alt);
+  color: var(--primary);
+  font-size: 1.05rem;
+}
+
+.contact-lbl {
+  margin-bottom: 3px;
+  font-size: 0.7rem;
+  font-weight: var(--bold);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--gray);
+}
+
+.contact-val {
+  font-size: 0.95rem;
+}
+
+.contact-sub {
+  color: var(--gray);
+  font-size: 0.88rem;
+}
+
+.contact-val a {
+  color: var(--primary);
+  font-weight: var(--bold);
+  text-decoration: none;
+}
+
+.contact-val a:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-underline-offset: 3px;
+}
+
+.contact-kr {
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.contact-lines {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.contact-line {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 9px;
+  font-size: 0.9rem;
+}
+
+.subway-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 11px;
+  border-radius: 999px;
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+.subway-badge .dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+  background: #ffffff;
+}
+
+.subway-badge.b-bundang {
+  background: #f5a200;
+}
+
+.subway-badge.b-line3 {
+  background: #ef7c1c;
+}
+
+.contact-line .walk {
+  color: var(--gray);
+  font-size: 0.82rem;
+}
+
+.contact-btns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 22px;
+}
+
+.contact-map {
+  display: flex;
+  flex-direction: column;
+  min-height: 360px;
+  border: 1px solid var(--light-gray);
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 40, 80, 0.06);
+}
+
+.contact-map iframe {
+  flex: 1;
+  width: 100%;
+  min-height: 320px;
+  border: 0;
+}
+
+.contact-mapcap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 16px;
+  background: var(--background);
+  border-top: 1px solid var(--light-gray);
+}
+
+.contact-mapcap .t {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--gray);
+  font-weight: var(--bold);
+}
+
+.contact-mapcap a {
+  font-size: 0.82rem;
+  font-weight: var(--bold);
+  color: var(--primary);
+  text-decoration: none;
+}
+
+.contact-mapcap a:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-underline-offset: 3px;
+}
+
+/*# sourceMappingURL=contact.css.map */
