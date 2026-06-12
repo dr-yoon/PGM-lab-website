@@ -1,0 +1,92 @@
+.hl-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+  margin: 24px 0;
+}
+
+@media (max-width: 760px) {
+  .hl-cards {
+    grid-template-columns: 1fr;
+  }
+}
+.hl-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--background);
+  border: 1px solid var(--light-gray);
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 40, 80, 0.06);
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow var(--transition), transform var(--transition);
+}
+
+.hl-card:hover {
+  box-shadow: 0 12px 30px rgba(0, 40, 80, 0.16);
+  transform: translateY(-4px);
+}
+
+.hl-imgw {
+  aspect-ratio: 16/10;
+  overflow: hidden;
+}
+
+.hl-imgw img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.hl-card:hover .hl-imgw img {
+  transform: scale(1.06);
+}
+
+.hl-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+  padding: 20px;
+  text-align: left;
+}
+
+.hl-body h3 {
+  margin: 0;
+  font-family: var(--heading);
+  font-weight: var(--semi-bold);
+  color: var(--primary);
+  font-size: 1.12rem;
+}
+
+.hl-body p {
+  margin: 0;
+  flex: 1;
+  font-size: 0.9rem;
+}
+
+.hl-arrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 6px;
+  color: var(--primary);
+  font-weight: var(--semi-bold);
+  font-size: 0.88rem;
+}
+
+.hl-arrow .icon {
+  transition: transform var(--transition);
+}
+
+.hl-card:hover .hl-arrow {
+  color: var(--primary-deep);
+}
+
+.hl-card:hover .hl-arrow .icon {
+  transform: translateX(3px);
+}
+
+/*# sourceMappingURL=highlights.css.map */
