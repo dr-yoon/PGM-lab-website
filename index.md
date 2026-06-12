@@ -36,65 +36,33 @@
 {% include section.html %}
 
 ## Highlights
-{% capture text %}
-Integrating experimental and computational methods to uncover the genetic mechanisms of human disease.
-{%
-  include button.html
-  link="research"
-  text="See our research area"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-{% endcapture %}
-{%
-  include feature.html
-  image="images/research.jpg"
-  link="research"
-  title="Our Research Approach"
-  alt="Genomics and precision medicine research at PGM Lab"
-  text=text
-%}
-{% capture text %}
-Discover our latest publications and preprints in genetics, genomics, and bioinformatics. 
-{%
-  include button.html
-  link="publication"
-  text="Explore our publication lists"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-{% endcapture %}
-{%
-  include feature.html
-  image="images/project.jpg"
-  link="publication"
-  title="Publications"
-  alt="Scientific publications in genetics and bioinformatics from PGM Lab"
-  flip=true
-  style="bare"
-  text=text
-%}
-{% capture text %}
-Meet the researchers behind our work — and explore opportunities to join the lab.
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-{% endcapture %}
-{%
-  include feature.html
-  image="images/team.jpg"
-  link="team"
-  title="Team Members"
-  alt="Research team members of PGM Lab"
-  text=text
-%}
+
+<div class="hl-cards">
+  <a class="hl-card" href="{{ "research" | relative_url }}">
+    <div class="hl-imgw"><img src="{{ "images/research.jpg" | relative_url }}" alt="Our Research Approach" loading="lazy"></div>
+    <div class="hl-body">
+      <h3>Our Research Approach</h3>
+      <p>Integrating experimental and computational methods to uncover the genetic mechanisms of human disease.</p>
+      <span class="hl-arrow">See our research {% include icon.html icon="fa-solid fa-arrow-right" %}</span>
+    </div>
+  </a>
+  <a class="hl-card" href="{{ "publication" | relative_url }}">
+    <div class="hl-imgw"><img src="{{ "images/project.jpg" | relative_url }}" alt="Publications" loading="lazy"></div>
+    <div class="hl-body">
+      <h3>Publications</h3>
+      <p>Discover our latest publications and preprints in genetics, genomics, and bioinformatics.</p>
+      <span class="hl-arrow">Explore publications {% include icon.html icon="fa-solid fa-arrow-right" %}</span>
+    </div>
+  </a>
+  <a class="hl-card" href="{{ "team" | relative_url }}">
+    <div class="hl-imgw"><img src="{{ "images/team.jpg" | relative_url }}" alt="Team Members" loading="lazy"></div>
+    <div class="hl-body">
+      <h3>Team Members</h3>
+      <p>Meet the researchers behind our work — and explore opportunities to join the lab.</p>
+      <span class="hl-arrow">Meet our team {% include icon.html icon="fa-solid fa-arrow-right" %}</span>
+    </div>
+  </a>
+</div>
 
 
 
