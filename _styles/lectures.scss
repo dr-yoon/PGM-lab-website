@@ -1,0 +1,113 @@
+---
+---
+
+.lectures {
+  margin: 24px 0;
+  font-family: "Inter", "Noto Sans KR", sans-serif;
+}
+
+.lec-year {
+  margin: 32px 0 8px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--light-gray);
+  font-family: var(--heading);
+  font-weight: var(--bold);
+  color: var(--primary);
+  font-size: 1.25rem;
+}
+
+.lec-year:first-child {
+  margin-top: 6px;
+}
+
+.lec-item {
+  display: flex;
+  gap: 18px;
+  padding: 16px 12px;
+  border-radius: 10px;
+  transition: background var(--transition);
+}
+
+.lec-item:hover {
+  background: var(--background-alt);
+}
+
+.lec-date {
+  flex-shrink: 0;
+  width: 110px;
+  align-self: flex-start;
+}
+
+.lec-pill {
+  display: block;
+  text-align: center;
+  font-family: var(--code);
+  font-size: 0.74rem;
+  font-weight: 600;
+  color: #ffffff;
+  background: var(--primary);
+  border-radius: 8px;
+  padding: 6px 8px;
+}
+
+.lec-content {
+  flex: 1;
+}
+
+.lec-event {
+  font-style: italic;
+  color: var(--gray);
+  font-size: 0.9rem;
+}
+
+.lec-session {
+  margin-top: 2px;
+  font-weight: var(--semi-bold);
+  color: var(--primary);
+}
+
+.lec-talk {
+  margin-top: 2px;
+  font-style: italic;
+  font-size: 0.95rem;
+}
+
+.lec-award {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 8px;
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: var(--bold);
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 14%, transparent);
+  border: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
+}
+
+.lec-award .icon {
+  color: var(--accent);
+}
+
+.lec-award-note {
+  margin-top: 6px;
+  font-size: 0.86rem;
+  font-style: italic;
+  color: var(--gray);
+}
+
+@media (max-width: 560px) {
+  .lec-item {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .lec-date {
+    width: auto;
+  }
+
+  .lec-pill {
+    display: inline-block;
+  }
+}
