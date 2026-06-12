@@ -3,7 +3,7 @@ title: Tools
 nav:
   order: 4
   tooltip: Software, datasets, and more
-  redirect_from:
+redirect_from:
   - /webservers
   - /software
   - /apps
@@ -18,6 +18,6 @@ All tools are freely available to the community and can be used, modified, and e
 
 {% include section.html %}
 
-{% include list.html data="tools" component="card" filter="group == 'tools'" %}
+{% include list.html data="tools" component="tool" filter="group == 'tools'" %}
 
 {% include section.html %}

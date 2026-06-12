@@ -1,0 +1,57 @@
+{{ " " }}
+<div class="tool">
+  <a
+    {% if include.link %}
+      href="{{ include.link | relative_url | uri_escape }}"
+    {% endif %}
+    aria-label="{{ include.title | default: "tool link" | regex_strip }}"
+    class="tool-media"
+  >
+    {% if include.image %}
+      <img
+        src="{{ include.image | relative_url | uri_escape }}"
+        alt="{{ include.title | default: "tool image" | regex_strip }}"
+        loading="lazy"
+        {% include fallback.html %}
+      >
+    {% else %}
+      {% include icon.html icon="fa-solid fa-terminal" %}
+    {% endif %}
+  </a>
+
+  <div class="tool-body">
+    {% if include.title %}
+      <a
+        {% if include.link %}
+          href="{{ include.link | relative_url | uri_escape }}"
+        {% endif %}
+        class="tool-name"
+      >
+        {{ include.title }}
+      </a>
+    {% endif %}
+
+    {% if include.description %}
+      <p class="tool-desc">
+        {{ include.description | markdownify | remove: "<p>" | remove: "</p>" }}
+      </p>
+    {% endif %}
+
+    {% if include.tags %}
+      {% include tags.html tags=include.tags %}
+    {% endif %}
+
+    <div class="tool-btns">
+      {% if include.link %}
+        <a class="tool-btn solid" href="{{ include.link | relative_url | uri_escape }}">
+          {% include icon.html icon="fa-brands fa-github" %} GitHub
+        </a>
+      {% endif %}
+      {% if include.repo %}
+        <a class="tool-btn ghost" href="{{ include.repo | relative_url | uri_escape }}">
+          {% include icon.html icon="fa-solid fa-database" %} Zenodo
+        </a>
+      {% endif %}
+    </div>
+  </div>
+</div>
