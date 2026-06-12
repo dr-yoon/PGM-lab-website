@@ -56,6 +56,24 @@ footer {
   gap: 16px;
 }
 
+.f-logo {
+  display: inline-flex;
+  text-decoration: none;
+}
+
+.f-logo img {
+  height: 30px;
+  width: auto;
+  display: block;
+}
+
+// Navy wordmark loses contrast on the dark navy footer band;
+// flatten it to a white silhouette in dark mode.
+[data-dark="true"] .f-logo img {
+  filter: brightness(0) invert(1);
+  opacity: 0.92;
+}
+
 .f-quick {
   display: flex;
   flex-wrap: wrap;

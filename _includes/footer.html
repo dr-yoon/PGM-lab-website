@@ -9,6 +9,10 @@
     </div>
 
     <div class="f-right">
+      <a href="https://www.yonsei.ac.kr/" class="f-logo" aria-label="Yonsei University">
+        <img src="{{ "images/yonsei_logo.svg" | relative_url }}" alt="Yonsei University">
+      </a>
+
       <nav class="f-quick">
         {% assign navpages = site.pages | where_exp: "p", "p.nav" | sort: "nav.order" %}
         {% for p in navpages %}
