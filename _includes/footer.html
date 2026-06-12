@@ -8,36 +8,9 @@
       <div class="f-dept">Department of Laboratory Medicine, Yonsei University College of Medicine</div>
     </div>
 
-    <div class="f-right">
-      <a href="https://www.yonsei.ac.kr/" class="f-logo" aria-label="Yonsei University">
-        <img src="{{ "images/yonsei_logo.svg" | relative_url }}" alt="Yonsei University">
-      </a>
-
-      <nav class="f-quick">
-        {% assign navpages = site.pages | where_exp: "p", "p.nav" | sort: "nav.order" %}
-        {% for p in navpages %}
-          <a href="{{ p.dir | relative_url | uri_escape }}">{{ p.title }}</a>
-        {% endfor %}
-      </nav>
-
-      <div class="f-social">
-        {% for link in site.links %}
-          {% assign key = link[0] %}
-          {% assign value = link[1] %}
-          {% if value and value != "" %}
-            {% assign type = site.data.types[key] %}
-            {% assign href = type.link | replace: "$VALUE", value | default: value %}
-            <a
-              href="{{ href }}"
-              data-tooltip="{{ type.tooltip | default: key }}"
-              aria-label="{{ type.tooltip | default: key }}"
-            >
-              {% include icon.html icon=type.icon %}
-            </a>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
+    <a href="https://www.yonsei.ac.kr/" class="f-logo" aria-label="Yonsei University">
+      <img src="{{ "images/yonsei_logo.svg" | relative_url }}" alt="Yonsei University">
+    </a>
   </div>
 
   <div class="f-bottom">
@@ -45,13 +18,41 @@
       <span class="f-copy">
         &copy; {{ site.time | date: "%Y" }} {{ site.subtitle | default: site.title }}. All rights reserved.
       </span>
-      <input
-        type="checkbox"
-        class="dark-toggle"
-        data-tooltip="Dark mode"
-        aria-label="toggle dark mode"
-        oninput="onDarkToggleChange(event)"
-      >
+
+      <div class="f-end">
+        <nav class="f-quick">
+          {% assign navpages = site.pages | where_exp: "p", "p.nav" | sort: "nav.order" %}
+          {% for p in navpages %}
+            <a href="{{ p.dir | relative_url | uri_escape }}">{{ p.title }}</a>
+          {% endfor %}
+        </nav>
+
+        <div class="f-social">
+          {% for link in site.links %}
+            {% assign key = link[0] %}
+            {% assign value = link[1] %}
+            {% if value and value != "" %}
+              {% assign type = site.data.types[key] %}
+              {% assign href = type.link | replace: "$VALUE", value | default: value %}
+              <a
+                href="{{ href }}"
+                data-tooltip="{{ type.tooltip | default: key }}"
+                aria-label="{{ type.tooltip | default: key }}"
+              >
+                {% include icon.html icon=type.icon %}
+              </a>
+            {% endif %}
+          {% endfor %}
+        </div>
+
+        <input
+          type="checkbox"
+          class="dark-toggle"
+          data-tooltip="Dark mode"
+          aria-label="toggle dark mode"
+          oninput="onDarkToggleChange(event)"
+        >
+      </div>
     </div>
   </div>
 </footer>
