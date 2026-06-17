@@ -1,6 +1,6 @@
 ---
 name: Sophia Sim
-image: images/photo.jpg
+image: team/photos/sophia-sim.jpg
 role: intern
 links:
   email: ssim5@jh.edu
