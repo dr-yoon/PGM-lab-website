@@ -7,6 +7,7 @@ aliases:
   - Jihoon Yoon
   - JG Yoon
 links:
+  email: YOONJH@yuhs.ac
   orcid: 0000-0002-4401-7803
   google-scholar: KIKGLvMAAAAJ
 

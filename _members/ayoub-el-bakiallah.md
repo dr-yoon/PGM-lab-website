@@ -3,6 +3,7 @@ name: Ayoub El Bakiallah
 image: team/photos/ayoub-baki.jpg
 role: associate
 links:
+  email: ayoub.baki.ma@gmail.com
   orcid: 0009-0002-6024-9492
 
 ---

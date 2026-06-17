@@ -5,6 +5,7 @@ aliases:
 image: team/photos/moonyoung-song.JPG
 role: postdoc
 links:
+  email: mysong94@yuhs.ac
   orcid: 0000-0001-9311-5146
 ---
 
