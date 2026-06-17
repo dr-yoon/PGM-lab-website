@@ -6,6 +6,6 @@ links:
   email: ssim5@jh.edu
 ---
 
-# Student Internship
+# Student Internship: 2026 Summer
 
 **Sophia** is a Pre-Med student at Johns Hopkins University, majoring in Molecular and Cellular Biology.
