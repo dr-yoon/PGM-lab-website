@@ -1,6 +1,6 @@
 ---
 name: Mandalmaa Bayasgalan
-image: images/photo.jpg
+image: team/photos/mandalmaa.jpg
 role: intern
 links:
   email: mandalmaabayasgalan@yonsei.ac.kr
