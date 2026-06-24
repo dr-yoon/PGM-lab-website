@@ -13,6 +13,11 @@
   </p>
 </div>
 
+<div style="margin:14px 0 6px; border-radius:14px; overflow:hidden; border:1px solid var(--light-gray); box-shadow:0 6px 30px rgba(0,40,80,.07);">
+  <img src="{{ "images/lab.jpg" | relative_url }}" alt="PGM Lab members"
+       loading="lazy" style="display:block; width:100%; height:auto;">
+</div>
+
 {% include section.html %}
 
 ## Recent News
