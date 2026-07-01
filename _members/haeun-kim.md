@@ -5,7 +5,7 @@ aliases:
 image: team/photos/haeun-kim.jpg
 role: postdoc
 links:
-  email: k2drri@gmail.com
+  email: khaeun1231@gmail.com
 ---
 
 # Postdoctoral Researcher
