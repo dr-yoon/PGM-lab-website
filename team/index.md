@@ -10,6 +10,11 @@ nav:
 Welcome to our newly established lab
 We are building a collaborative research environment from the ground up, and we’re excited to grow our team.
 
+<div style="margin:14px 0 6px; border-radius:14px; overflow:hidden; border:1px solid var(--light-gray); box-shadow:0 6px 30px rgba(0,40,80,.07);">
+  <img src="{{ "images/pgmlab.jpg" | relative_url }}" alt="PGM Lab Members"
+       loading="lazy" style="display:block; width:100%; height:auto;">
+</div>
+
 {% include section.html %}
 
 ## Current Members
