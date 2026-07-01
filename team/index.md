@@ -21,7 +21,15 @@ We are building a collaborative research environment from the ground up, and weâ
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != 'postdoc' and role != 'intern'" %}
+{% include list.html data="members" component="portrait" filter="role == 'associate'" %}
+{% include list.html data="members" component="portrait" filter="role == 'assistant'" %}
+{% include list.html data="members" component="portrait" filter="role == 'manager'" %}
+
+{% include section.html %}
+
+## Alumni
+
+{% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
 
 {% include section.html %}
 
