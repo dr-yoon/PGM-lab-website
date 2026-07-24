@@ -18,8 +18,9 @@ nav:
   <div class="lec-item">
     <div class="lec-date"><span class="lec-pill">2026-07-16</span></div>
     <div class="lec-content">
-      <div class="lec-event">2026 Nanopore User Group Meeting In Seoul</div>
-      <div class="lec-session">Comprehensive Characterization of Clinically Relevant Loci in 56 Korean Genomes using Nanopore Long-read Sequencing</div>
+      <div class="lec-event">Nanopore User Group Meeting</div>
+      <div class="lec-session">2026 Nanopore UGM in Seoul</div>
+      <div class="lec-talk">Comprehensive Characterization of Clinically Relevant Loci in 56 Korean Genomes using Nanopore Long-read Sequencing</div>
     </div>
   </div>
   
